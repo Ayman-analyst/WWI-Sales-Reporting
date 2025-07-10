@@ -43,7 +43,7 @@ This project focuses on transforming raw sales data from the **World Wide Import
 - Data storytelling in Power BI
 
 ## 🧑‍💻 Author
-Ayman Mahmoud
-📧 ayman.anaylst@gmail.com
-📍 Giza, Egypt
-🔗 LinkedIn Profile (https://www.linkedin.com/in/ayman-mahmoud-8b2287235/));
+- Ayman Mahmoud
+- 📧 ayman.anaylst@gmail.com
+- 📍 Giza, Egypt
+- 🔗 LinkedIn Profile (https://www.linkedin.com/in/ayman-mahmoud-8b2287235/));
