@@ -42,7 +42,7 @@ This project focuses on transforming raw sales data from the **World Wide Import
 - Business KPI definition  
 - Data storytelling in Power BI
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Ayman Mahmoud
 📧 ayman.anaylst@gmail.com
 📍 Giza, Egypt
