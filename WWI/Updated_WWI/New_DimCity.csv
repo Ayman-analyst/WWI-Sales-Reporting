@@ -1,0 +1,3398 @@
+City_Key,City,State_Province
+1,Aberdeen,Washington
+2,Acampo,California
+3,Acme,Washington
+4,Acoma,Nevada
+5,Acton,California
+6,Adair Village,Oregon
+7,Adak,Alaska
+8,Adams,Oregon
+9,Addy,Washington
+10,Adel,Oregon
+11,Adelaide,Washington
+12,Adelanto,California
+13,Adin,California
+14,Adna,Washington
+15,Adrian,Oregon
+16,Aeneas,Washington
+17,Afton,California
+18,Agate Beach,Oregon
+19,Agness,Oregon
+20,Agoura,California
+21,Agoura Hills,California
+22,Agua Dulce,California
+23,Aguanga,California
+24,Ahtanum,Washington
+25,Ahwahnee,California
+26,'Aiea,Hawaii
+27,Airway Heights,Washington
+28,Akhiok,Alaska
+29,Akiachak,Alaska
+30,Akiak,Alaska
+31,Akutan,Alaska
+32,Alakanuk,Alaska
+33,Alameda,California
+34,Carson,Washington
+35,Alamo,Nevada
+36,Alamo Oaks,California
+37,Alatna,Alaska
+38,Albany,California
+39,Alberhill,California
+40,Albion,California
+41,Alcan,Alaska
+42,Alder,Washington
+43,Alderdale,Washington
+44,Alderpoint,California
+45,Alderwood Manor,Washington
+46,Aleknagik,Alaska
+47,Alfalfa,Oregon
+48,Alger,Washington
+49,Algona,Washington
+50,Alhambra,California
+51,Aliso Viejo,California
+52,Allakaket,Alaska
+53,Allegany,Oregon
+54,Alleghany,California
+55,Allendale,California
+56,Allensworth,California
+57,Allentown,Washington
+58,Allyn,Washington
+59,Almanor,California
+60,Almira,Washington
+61,Almonte,California
+62,Almota,Washington
+63,Aloha,Oregon
+64,Alpaugh,California
+65,Alpine,California
+66,Alsea,Oregon
+67,Alstown,Washington
+68,Alta,California
+69,Alta Loma,California
+70,Alta Sierra,California
+71,Altadena,California
+72,Altamont,Oregon
+73,Altaville,California
+74,Altoona,Washington
+75,Alturas,California
+76,Alum Rock,California
+77,Amador City,California
+78,Amanda Park,Washington
+79,Amargosa Valley,Nevada
+80,Amber,Washington
+81,Ambler,Alaska
+82,Amboy,California
+83,Amchitka,Alaska
+84,American Canyon,California
+85,Amity,Oregon
+86,Anacortes,Washington
+87,Anaheim,California
+88,Anahola,Hawaii
+89,Anaktuvuk Pass,Alaska
+90,Anatone,Washington
+91,Anchor Bay,California
+92,Anchor Point,Alaska
+93,Anchorage,Alaska
+94,Anderson,California
+95,Angels,California
+96,Angiola,California
+97,Angoon,Alaska
+98,Angwin,California
+99,Aniak,Alaska
+100,Annapolis,Washington
+101,Annette,Alaska
+102,Annex,Oregon
+103,Antelope,California
+104,Antioch,California
+105,Antone,Oregon
+106,Anvik,Alaska
+107,Anza,California
+108,Apple Valley,California
+109,Applegate,California
+110,Aptos,California
+111,Arbuckle,California
+112,Arcadia,California
+113,Arcata,California
+114,Arch Cape,Oregon
+115,Arctic Village,Alaska
+116,Arden,Nevada
+117,Arden Town,California
+118,Ardenvoir,Washington
+119,Ariel,Washington
+120,Arletta,Washington
+121,Arlington,Washington
+122,Armona,California
+123,Arnold,California
+124,Arock,Oregon
+125,Aromas,California
+126,Arrowbear Lake,California
+127,Arrowhead Highlands,California
+128,Arroyo Grande,California
+129,Artesia,California
+130,Arthur,Nevada
+131,Artois,California
+132,Arvin,California
+133,Ashford,Washington
+134,Ashland,California
+135,Ashwood,Oregon
+136,Asotin,Washington
+137,Aspen Springs,California
+138,Astoria,Oregon
+139,Atascadero,California
+140,Athena,Oregon
+141,Atherton,California
+142,Atka,Alaska
+143,Atmautluak,Alaska
+144,Atolia,California
+145,Atqasuk,Alaska
+146,Attu,Alaska
+147,Atwater,California
+148,Atwood,California
+149,Auberry,California
+150,Auburn,California
+151,Auke Bay,Alaska
+152,Aumsville,Oregon
+153,Aurora,Oregon
+154,Aurora Lodge,Alaska
+155,Austin,Nevada
+156,Avalon,California
+157,Avenal,California
+158,Avery,California
+159,Avilla Beach,California
+160,Ayer,Washington
+161,Azusa,California
+162,Azwell,Washington
+163,Babbitt,Nevada
+164,Badger,California
+165,Bagdad,California
+166,Bainbridge Island,Washington
+167,Baker,California
+168,Baker City,Oregon
+169,Bakersfield,California
+170,Balance Rock,California
+171,Baldwin Park,California
+172,Ballard,California
+173,Ballico,California
+174,Bandon,Oregon
+175,Bangor,California
+176,Banks,Oregon
+177,Banning,California
+178,Baranof,Alaska
+179,Barberton,Washington
+180,Baring,Washington
+181,Barlow,Oregon
+182,Barrow,Alaska
+183,Barstow,California
+184,Bartlett,California
+185,Barview,Oregon
+186,Basin City,Washington
+187,Bass Lake,California
+188,Bassett,California
+189,Bates,Oregon
+190,Battle Ground,Washington
+191,Battle Mountain,Nevada
+192,Bay Center,Washington
+193,Bay City,Oregon
+194,Bayne,Washington
+195,Bayview,Washington
+196,Bear Creek,California
+197,Bear Valley,California
+198,Bear Valley Springs,California
+199,Beatty,Nevada
+200,Beaumont,California
+201,Beaux Arts Village,Washington
+202,Beaver,Alaska
+203,Beaver Creek,Oregon
+204,Beaver Valley,Washington
+205,Beaverton,Oregon
+206,Beckwourth,California
+207,Belden,California
+208,Belfair,Washington
+209,Belkofski,Alaska
+210,Bell,California
+211,Bell Gardens,California
+212,Bell Island Hot Springs,Alaska
+213,Bella Vista,California
+214,Bellevue,Washington
+215,Bellflower,California
+216,Bellfountain,Oregon
+217,Bellingham,Washington
+218,Belltown,California
+219,Belmont,California
+220,Beluga,Alaska
+221,Belvedere,California
+222,Ben Lomond,California
+223,Benbow,California
+224,Bend,California
+225,Benge,Washington
+226,Benicia,California
+227,Benton,California
+228,Benton City,Washington
+229,Beowawe,Nevada
+230,Berenda,California
+231,Berkeley,California
+232,Bermuda Dunes,California
+233,Berry Creek,California
+234,Berrydale,Washington
+235,Bethel,Alaska
+236,Bethel Island,California
+237,Betteravia,California
+238,Bettles,Alaska
+239,Beulah,Oregon
+240,Beverly,Washington
+241,Beverly Hills,California
+242,Bickleton,Washington
+243,Bieber,California
+244,Big Bar,California
+245,Big Bear City,California
+246,Big Bear Lake,California
+247,Big Bend,California
+248,Big Creek,California
+249,Big Delta,Alaska
+250,Big Lagoon,California
+251,Big Lake,Washington
+252,Big Oak Flat,California
+253,Big Pine,California
+254,Big River,California
+255,Big Sur,California
+256,Biggs,California
+257,Bill Moores,Alaska
+258,Bingen,Washington
+259,Biola,California
+260,Biorka,Alaska
+261,Birch Bay,Washington
+262,Birds Landing,California
+263,Bishop,California
+264,Black Diamond,Washington
+265,Black Point,California
+266,Black Rock,Oregon
+267,Black Springs,Nevada
+268,Blaine,Washington
+269,Blairsden,California
+270,Blanchard,Washington
+271,Blockhouse,Washington
+272,Blocksburg,California
+273,Blodgett,Oregon
+274,Bloomfield,California
+275,Bloomington,California
+276,Blue Canyon,California
+277,Blue Diamond,Nevada
+278,Blue Jay,California
+279,Blue Lake,California
+280,Blue River,Oregon
+281,Bluewater,California
+282,Bly,Oregon
+283,Blyn,Washington
+284,Blythe,California
+285,Boardman,Oregon
+286,Bodega,California
+287,Bodega Bay,California
+288,Bodfish,California
+289,Boise,Washington
+290,Boistfort,Washington
+291,Bolinas,California
+292,Bombay Beach,California
+293,Bonanza,Oregon
+294,Bonita,California
+295,Bonney Lake,Washington
+296,Bonny Doon,California
+297,Bonsall,California
+298,Boonville,California
+299,Bootjack,California
+300,Boring,Oregon
+301,Boron,California
+302,Borrego Springs,California
+303,Boston Harbor,Washington
+304,Bostonia,California
+305,Bothell,Washington
+306,Boulder City,Nevada
+307,Boulder Creek,California
+308,Boulevard,California
+309,Bow,Washington
+310,Bowles,California
+311,Boyds,Washington
+312,Boyes Hot Springs,California
+313,Bradbury,California
+314,Bradley,California
+315,Brady,Washington
+316,Brawley,California
+317,Bray,California
+318,Brea,California
+319,Breidablick,Washington
+320,Bremerton,Washington
+321,Brentwood,California
+322,Brevig Mission,Alaska
+323,Brewster,Washington
+324,Briceland,California
+325,Bridge,Oregon
+326,Bridgeport,California
+327,Brier,Washington
+328,Brightwood,Oregon
+329,Brinnon,Washington
+330,Brisbane,California
+331,Broad Pass (historical),Alaska
+332,Broadbent,Oregon
+333,Broadmoor,California
+334,Brogan,Oregon
+335,Brookdale,California
+336,Brookings,Oregon
+337,Brooklyn,Washington
+338,Brooks,Oregon
+339,Brothers,Oregon
+340,Brownlee,Oregon
+341,Brownsville,Oregon
+342,Brush Prairie,Washington
+343,Bryant,Washington
+344,Bryn Mawr,California
+345,Bryn Mawr-Skyway,Washington
+346,Buck Meadows,California
+347,Buckhorn,California
+348,Buckland,Alaska
+349,Buckley,Washington
+350,Bucoda,Washington
+351,Buellton,California
+352,Buena,Washington
+353,Buena Park,California
+354,Buena Vista,California
+355,Bunker Hill,Oregon
+356,Bunkerville,Nevada
+357,Burbank,California
+358,Burien,Washington
+359,Burley,Washington
+360,Burlingame,California
+361,Burlington,Washington
+362,Burney,California
+363,Burns,Oregon
+364,Burnt Ranch,California
+365,Burrel,California
+366,Burton,Washington
+367,Butte,Alaska
+368,Butte Falls,Oregon
+369,Butte Meadows,California
+370,Butteville,Oregon
+371,Buttonwillow,California
+372,Byron,California
+373,Cabazon,California
+374,Cadiz,California
+375,Cajon Junction,California
+376,Calabasas,California
+377,Calavo Gardens,California
+378,Calexico,California
+379,Caliente,Nevada
+380,California City,California
+381,California Hot Springs,California
+382,California Pines,California
+383,Calimesa,California
+384,Calipatria,California
+385,Calistoga,California
+386,Callahan,California
+387,Cal-Nev-Ari,Nevada
+388,Calpella,California
+389,Calpine,California
+390,Calwa,California
+391,Camanche North Shore,California
+392,Camanche Village,California
+393,Camarillo,California
+394,Camas,Washington
+395,Camas Valley,Oregon
+396,Cambria,California
+397,Cambrian Park,California
+398,Camden,California
+399,Camino,California
+400,Camp Nelson,California
+401,Camp Sherman,Oregon
+402,Campbell,California
+403,Campo,California
+404,Camptonville,California
+405,Canby,California
+406,Candle,Alaska
+407,Cannon Beach,Oregon
+408,Cantil,California
+409,Cantua Creek,California
+410,Cantwell,Alaska
+411,Canyon,California
+412,Canyon City,Oregon
+413,Canyon Lake,California
+414,Canyon Park,Washington
+415,Canyondam,California
+416,Canyonville,Oregon
+417,Cape Pole,Alaska
+418,Cape Yakataga,Alaska
+419,Capistrano Beach,California
+420,Capitola,California
+421,Captain Cook,Hawaii
+422,Carbonado,Washington
+423,Cardiff-by-the-Sea,California
+424,Caribou,California
+425,Carlin,Nevada
+426,Carlisle,Washington
+427,Carlsbad,California
+428,Carlsborg,Washington
+429,Carlton,Oregon
+430,Carmel Valley,California
+431,Carmel-by-the-Sea,California
+432,Carmet,California
+433,Carmichael,California
+434,Carnation,Washington
+435,Carnelian Bay,California
+436,Carp,Nevada
+437,Carpenterville,Oregon
+438,Carpinteria,California
+439,Carrolls,Washington
+440,Carson City,Nevada
+441,Cartago,California
+442,Caruthers,California
+443,Casa Conejo,California
+444,Casa de Oro,California
+445,Cascade Locks,Oregon
+446,Cascadia,Oregon
+447,Caselton,Nevada
+448,Cashmere,Washington
+449,Casitas Springs,California
+450,Casmalia,California
+451,Caspar,California
+452,Cassel,California
+453,Castaic,California
+454,Castella,California
+455,Castle Park,California
+456,Castle Rock,Washington
+457,Castro Valley,California
+458,Castroville,California
+459,Cathcart,Washington
+460,Cathedral City,California
+461,Catheys Valley,California
+462,Cathlamet,Washington
+463,Cavalero Corner,Washington
+464,Cave Junction,Oregon
+465,Cayucos,California
+466,Cayuse,Oregon
+467,Cazadero,California
+468,Cecil,Oregon
+469,Cecilville,California
+470,Cedar Falls,Washington
+471,Cedar Glen,California
+472,Cedar Grove,California
+473,Cedar Mountain,Washington
+474,Cedar Ridge,California
+475,Cedar Slope,California
+476,Cedarhurst,Washington
+477,Cedarpines Park,California
+478,Cedarville,California
+479,Cedonia,Washington
+480,Centerville,Washington
+481,Central,Alaska
+482,Central Park,Washington
+483,Central Point,Oregon
+484,Central Valley,Washington
+485,Centralia,Washington
+486,Ceres,California
+487,Cerritos,California
+488,Chalfant,California
+489,Chalkyitsik,Alaska
+490,Challenge,California
+491,Chandalar,Alaska
+492,Chaniliut,Alaska
+493,Charleston,Nevada
+494,Charter Oak,California
+495,Chase,Alaska
+496,Chatanika,Alaska
+497,Chatham,Alaska
+498,Chattaroy,Washington
+499,Chefornak,Alaska
+500,Chehalis,Washington
+501,Chelan,Washington
+502,Chelan Falls,Washington
+503,Chelatchie,Washington
+504,Chelatna Lodge,Alaska
+505,Chemult,Oregon
+506,Chena Hot Springs,Alaska
+507,Cheney,Washington
+508,Chenoweth,Oregon
+509,Chernofski,Alaska
+510,Cherokee,California
+511,Cherokee Strip,California
+512,Cherry Creek,Nevada
+513,Cherry Valley,California
+514,Chesaw,Washington
+515,Cheshire,Oregon
+516,Chester,California
+517,Chevak,Alaska
+518,Chewelah,Washington
+519,Chickaloon,Alaska
+520,Chicken,Alaska
+521,Chico,California
+522,Chignik,Alaska
+523,Chignik Lagoon,Alaska
+524,Chiloquin,Oregon
+525,Chimacum,Washington
+526,Chinese Camp,California
+527,Chino,California
+528,Chino Hills,California
+529,Chinook,Washington
+530,Chisana,Alaska
+531,Chistochina,Alaska
+532,Chitina,Alaska
+533,Cholame,California
+534,Chowchilla,California
+535,Christopher,Washington
+536,Chualar,California
+537,Chuathbaluk,Alaska
+538,Chubbuck,California
+539,Chugiak,Alaska
+540,Chula Vista,California
+541,Cima,California
+542,Cinebar,Washington
+543,Circle,Alaska
+544,Circle Hot Springs,Alaska
+545,Citrus,California
+546,Citrus Heights,California
+547,City Terrace,California
+548,Clackamas,Oregon
+549,Clallam Bay,Washington
+550,Clam Gulch,Alaska
+551,Claremont,California
+552,Clark's Point,Alaska
+553,Clarksburg,California
+554,Clarkston,Washington
+555,Clarkston Heights,Washington
+556,Clatskanie,Oregon
+557,Clay,California
+558,Clayton,California
+559,Cle Elum,Washington
+560,Clear Creek,California
+561,Clear Lake,Washington
+562,Clearlake,California
+563,Clearlake Oaks,California
+564,Clearview,Washington
+565,Cleone,California
+566,Cliffdell,Washington
+567,Clifton,California
+568,Clinton,Washington
+569,Clio,California
+570,Clipper Mills,California
+571,Cloverdale,Oregon
+572,Clovis,California
+573,Clyde,California
+574,Clyde Hill,Washington
+575,Coachella,California
+576,Coalfield,Washington
+577,Coalinga,California
+578,Coarsegold,California
+579,Cobb,California
+580,Cobre,Nevada
+581,Coburg,Oregon
+582,Coffman Cove,Alaska
+583,Cohasset,California
+584,Cohassett Beach,Washington
+585,Cohoe,Alaska
+586,Colbert,Washington
+587,Cold Bay,Alaska
+588,Cold Springs,California
+589,Coldfoot,Alaska
+590,Coleville,California
+591,Colfax,California
+592,College,Alaska
+593,College City,California
+594,College Heights,California
+595,College Place,Washington
+596,Collierville,California
+597,Colma,California
+598,Coloma,California
+599,Colorado,Alaska
+600,Colton,California
+601,Columbia,California
+602,Columbia City,Oregon
+603,Colusa,California
+604,Colville,Washington
+605,Colvos,Washington
+606,Commerce,California
+607,Comptche,California
+608,Compton,California
+609,Conconully,Washington
+610,Concord,California
+611,Concrete,Washington
+612,Condon,Oregon
+613,Conejo,California
+614,Connell,Washington
+615,Contact,Nevada
+616,Conway,Washington
+617,Cooper Landing,Alaska
+618,Coos Bay,Oregon
+619,Copalis Beach,Washington
+620,Copalis Crossing,Washington
+621,Copper Center,Alaska
+622,Copperfield,Nevada
+623,Copperopolis,California
+624,Coquille,Oregon
+625,Corcoran,California
+626,Cordell,Washington
+627,Cordova,Alaska
+628,Cornelius,Oregon
+629,Cornell,California
+630,Corning,California
+631,Cornucopia,Oregon
+632,Corona,California
+633,Coronado,California
+634,Corralitos,California
+635,Corte Madera,California
+636,Corvallis,Oregon
+637,Cosgrave,Nevada
+638,Cosmopolis,Washington
+639,Costa Mesa,California
+640,Cotati,California
+641,Cottage Grove,Oregon
+642,Cotton Center,California
+643,Cottonwood,California
+644,Cougar,Washington
+645,Coulee City,Washington
+646,Coulee Dam,Washington
+647,Coulterville,California
+648,Country Homes,Washington
+649,Coupeville,Washington
+650,Courtland,California
+651,Covada,Washington
+652,Cove,Oregon
+653,Covelo,California
+654,Covina,California
+655,Covington,Washington
+656,Cowan,California
+657,Cowan Heights,California
+658,Cowell,California
+659,Cowiche,Washington
+660,Coyote Wells,California
+661,Crabtree,Oregon
+662,Crafton,California
+663,Craig,Alaska
+664,Crane,Oregon
+665,Crannell,California
+666,Crawfordsville,Oregon
+667,Crescent,Oregon
+668,Crescent City,California
+669,Crescent Lake,Oregon
+670,Crescent Mills,California
+671,Crescent Valley,Nevada
+672,Cressey,California
+673,Crestline,Nevada
+674,Creston,California
+675,Creswell,Oregon
+676,Crockett,California
+677,Cromberg,California
+678,Cromwell,Washington
+679,Crooked Creek,Alaska
+680,Crows Landing,California
+681,Crucero,California
+682,Crystal Bay,Nevada
+683,Crystal Falls,Alaska
+684,Cudahy,California
+685,Culp Creek,Oregon
+686,Culver,Oregon
+687,Culver City,California
+688,Cumberland,Washington
+689,Cunningham,Washington
+690,Cupertino,California
+691,Curlew,Washington
+692,Currie,Nevada
+693,Curry,Alaska
+694,Curtin,Oregon
+695,Cushman,Oregon
+696,Cusick,Washington
+697,Custer,Washington
+698,Cutler,California
+699,Cutten,California
+700,Cuyama,California
+701,Cypress,California
+702,Daggett,California
+703,Dairy,Oregon
+704,Daisy,Washington
+705,Dale,Oregon
+706,Dalkena,Washington
+707,Dallas,Oregon
+708,Dallesport,Washington
+709,Daly City,California
+710,Damascus,Oregon
+711,Dana Point,California
+712,Danville,California
+713,Dardanelle,California
+714,Darrington,Washington
+715,Darwin,California
+716,Davenport,California
+717,Davis,California
+718,Days Creek,Oregon
+719,Dayton,Nevada
+720,Dayville,Oregon
+721,Deadhorse,Alaska
+722,Dee,Oregon
+723,Deep Creek,Washington
+724,Deep River,Washington
+725,Deep Springs,California
+726,Deer Island,Oregon
+727,Deer Park,Washington
+728,Deering,Alaska
+729,Deeth,Nevada
+730,Del Dios,California
+731,Del Mar,California
+732,Del Monte Forest,California
+733,Del Rey,California
+734,Del Rey Oaks,California
+735,Del Rosa,California
+736,Delano,California
+737,Delevan,California
+738,Delft Colony,California
+739,Delhi,California
+740,Delleker,California
+741,Delta Junction,Alaska
+742,Deltana,Alaska
+743,Deming,Washington
+744,Denair,California
+745,Denio,Nevada
+746,Depoe Bay,Oregon
+747,Derby Acres,California
+748,Des Moines,Washington
+749,Descanso,California
+750,Desert Center,California
+751,Desert Edge,California
+752,Desert Hot Springs,California
+753,Desert Shores,California
+754,Detroit,Oregon
+755,Devore,California
+756,Dexter,Oregon
+757,Di Giorgio,California
+758,Diablo,California
+759,Diamond Bar,California
+760,Diamond Lake,Oregon
+761,Diamond Springs,California
+762,Dieringer,Washington
+763,Dillard,Oregon
+764,Dillingham,Alaska
+765,Dillon Beach,California
+766,Dinuba,California
+767,Diomede,Alaska
+768,Disautel,Washington
+769,Discovery Bay,California
+770,Dishman,Washington
+771,Disston,Oregon
+772,Dixie,Washington
+773,Dixon,California
+774,Dobbins,California
+775,Dockton,Washington
+776,Dogtown,California
+777,Dollar Point,California
+778,Dollars Corner,Washington
+779,Dominguez,California
+780,Donald,Oregon
+781,Donnelly,Alaska
+782,Dora,Oregon
+783,Dorena,Oregon
+784,Doris,Washington
+785,Dorrington,California
+786,Dorris,California
+787,Dos Palos,California
+788,Dos Palos Y,California
+789,Dos Rios,California
+790,Dot Lake,Alaska
+791,Doty,Washington
+792,Douglas,Washington
+793,Douglas City,California
+794,Downey,California
+795,Downieville,California
+796,Doyle,California
+797,Drain,Oregon
+798,Dry Lake,Nevada
+799,Drytown,California
+800,Duarte,California
+801,Dublin,California
+802,Ducor,California
+803,Dufur,Oregon
+804,Dundee,Oregon
+805,Dunes City,Oregon
+806,Dungeness,Washington
+807,Dunlap Acres,California
+808,Dunnigan,California
+809,Dunphy,Nevada
+810,Dunsmuir,California
+811,DuPont,Washington
+812,Durham,Oregon
+813,Dustin Acres,California
+814,Dusty,Washington
+815,Dutch Flat,California
+816,Duvall,Washington
+817,Dyer,Nevada
+818,Eagle,Alaska
+819,Eagle Point,Oregon
+820,Eagle River,Alaska
+821,Eagle Village,Alaska
+822,Eagledale,Washington
+823,Eagleville,California
+824,Earlimart,California
+825,East Blythe,California
+826,East Farms,Washington
+827,East Highlands,California
+828,East La Mirada,California
+829,East Las Vegas,Nevada
+830,East Los Angeles,California
+831,East Nicolaus,California
+832,East Oakdale,California
+833,East Olympia,Washington
+834,East Orosi,California
+835,East Palo Alto,California
+836,East Porterville,California
+837,East Quincy,California
+838,East Sonora,California
+839,East Wenatchee,Washington
+840,East Whittier,California
+841,Eastgate,Nevada
+842,Easton,Washington
+843,Eastsound,Washington
+844,Eatonville,Washington
+845,Echo,Oregon
+846,Eddyville,Oregon
+847,Edgemont,California
+848,Edgewood,Washington
+849,Edison,California
+850,Edmonds,Washington
+851,Edmundson Acres,California
+852,Edna,California
+853,Edna Bay,Alaska
+854,Edwall,Washington
+855,Edwards Air Force Base,California
+856,Eek,Alaska
+857,Egegik,Alaska
+858,Eglon,Washington
+859,Ekwok,Alaska
+860,El Cajon,California
+861,El Casco,California
+862,El Centro,California
+863,El Cerrito,California
+864,El Dorado Hills,California
+865,El Granada,California
+866,El Monte,California
+867,El Nido,California
+868,El Paso de Robles,California
+869,El Portal,California
+870,El Rio,California
+871,El Segundo,California
+872,El Sobrante,California
+873,El Toro,California
+874,El Verano,California
+875,Elbe,Washington
+876,Elberton,Washington
+877,Elderwood,California
+878,Eldon,Washington
+879,Eldridge,California
+880,Electric City,Washington
+881,Ele'ele,Hawaii
+882,Elfin Cove,Alaska
+883,Elgin,Nevada
+884,Elim,Alaska
+885,Elk,California
+886,Elk Creek,California
+887,Elk Grove,California
+888,Elkhorn,California
+889,Elko,Nevada
+890,Elkton,Oregon
+891,Ellamar,Alaska
+892,Ellensburg,Washington
+893,Ellisforde,Washington
+894,Ellisport,Washington
+895,Elma,Washington
+896,Elmer City,Washington
+897,Elmira,California
+898,Elsie,Oregon
+899,Eltopia,Washington
+900,Elverta,California
+901,Ely,Nevada
+902,Emden,Washington
+903,Emerald Bay,California
+904,Emeryville,California
+905,Emigrant Gap,California
+906,Emmonak,Alaska
+907,Empire,California
+908,Encinitas,California
+909,Endicott,Washington
+910,Enetai,Washington
+911,Enterprise,Oregon
+912,Entiat,Washington
+913,Enumclaw,Washington
+914,Eola,Oregon
+915,Ephrata,Washington
+916,Erlands Point,Washington
+917,Escalon,California
+918,Eschbach,Washington
+919,Escondido,California
+920,Eska,Alaska
+921,Espanola,Washington
+922,Esparto,California
+923,Essex,California
+924,Estacada,Oregon
+925,Ester,Alaska
+926,Etna,California
+927,Eucalyptus Hills,California
+928,Eugene,Oregon
+929,Eureka,California
+930,Eureka Roadhouse,Alaska
+931,Evans,Washington
+932,Everett,Washington
+933,Everson,Washington
+934,'Ewa,Hawaii
+935,Ewan,Washington
+936,Excursion Inlet,Alaska
+937,Exeter,California
+938,Eyak,Alaska
+939,Fair Oaks,California
+940,Fairbanks,Alaska
+941,Fairfax,California
+942,Fairfield,California
+943,Fairmead,California
+944,Fairmont,Washington
+945,Fairview,Oregon
+946,Fall City,Washington
+947,Fall River Mills,California
+948,Fallbrook,California
+949,Fallon,Nevada
+950,Falls City,Oregon
+951,False Pass,Alaska
+952,Farmer,Washington
+953,Farmersville,California
+954,Farmington,California
+955,Feather Falls,California
+956,Federal Way,Washington
+957,Fellows,California
+958,Felton,California
+959,Fenner,California
+960,Fern Prairie,Washington
+961,Fernbrook,California
+962,Ferndale,California
+963,Fernley,Nevada
+964,Fetters Hot Springs,California
+965,Fiddletown,California
+966,Fieldbrook,California
+967,Fields Landing,California
+968,Fife,Washington
+969,Fillmore,California
+970,Finley,Washington
+971,Fircrest,Washington
+972,Firebaugh,California
+973,Fish Camp,California
+974,Flanigan,Nevada
+975,Flat,Alaska
+976,Flinn Springs,California
+977,Flora,Oregon
+978,Florence,Oregon
+979,Florin,California
+980,Floriston,California
+981,Flournoy,California
+982,Folger,Alaska
+983,Folsom,California
+984,Fontana,California
+985,Foothill Farms,California
+986,Foots Creek,Oregon
+987,Forbestown,California
+988,Ford,Washington
+989,Ford City,California
+990,Fords Prairie,Washington
+991,Forest Grove,Oregon
+992,Forest Knolls,California
+993,Forest Meadows,California
+994,Forest Ranch,California
+995,Foresthill,California
+996,Forestville,California
+997,Forks,Washington
+998,Fort Bidwell,California
+999,Fort Bragg,California
+1000,Fort Dick,California
+1001,Fort Hill,Oregon
+1002,Fort Irwin,California
+1003,Fort Jones,California
+1004,Fort Klamath,Oregon
+1005,Fort Washington,California
+1006,Fort Yukon,Alaska
+1007,Fortuna,California
+1008,Fossil,Oregon
+1009,Foster,Oregon
+1010,Foster City,California
+1011,Fountain Valley,California
+1012,Four Lakes,Washington
+1013,Fowler,California
+1014,Fox,Oregon
+1015,Fragaria,Washington
+1016,Frances,Washington
+1017,Franklin,California
+1018,Frazier Park,California
+1019,Freedom,California
+1020,Freeland,Washington
+1021,Freeman,Washington
+1022,Freeport,California
+1023,Fremont,California
+1024,French Camp,California
+1025,French Gulch,California
+1026,Frenchglen,Oregon
+1027,Frenchman,Nevada
+1028,Fresno,California
+1029,Friant,California
+1030,Friday Harbor,Washington
+1031,Fruitland,Washington
+1032,Fruitvale,Washington
+1033,Fuller Acres,California
+1034,Fullerton,California
+1035,Fulton,California
+1036,Funter,Alaska
+1037,Furnace Creek,California
+1038,Gabbs,Nevada
+1039,Gakona,Alaska
+1040,Galena,Alaska
+1041,Galt,California
+1042,Gambell,Alaska
+1043,Garberville,California
+1044,Garden Farms,California
+1045,Garden Grove,California
+1046,Garden Home,Oregon
+1047,Gardena,California
+1048,Gardiner,Oregon
+1049,Gardnerville,Nevada
+1050,Garey,California
+1051,Garfield,Washington
+1052,Garibaldi,Oregon
+1053,Garlock,California
+1054,Garner,Alaska
+1055,Garnet,California
+1056,Garrett,Washington
+1057,Gasquet,California
+1058,Gaston,Oregon
+1059,Gates,Oregon
+1060,Gaviota,California
+1061,Gazelle,California
+1062,Gearhart,Oregon
+1063,Geneva,Washington
+1064,Genoa,Nevada
+1065,George,Washington
+1066,Georgetown,California
+1067,Gerber,California
+1068,Gerlach,Nevada
+1069,Gervais,Oregon
+1070,Geyserville,California
+1071,Gibbon,Oregon
+1072,Gifford,Washington
+1073,Gig Harbor,Washington
+1074,Gilberton,Washington
+1075,Gilchrist,Oregon
+1076,Gilroy,California
+1077,Girdwood,Alaska
+1078,Glacier,Washington
+1079,Gladstone,Oregon
+1080,Glamis,California
+1081,Glasgow,Oregon
+1082,Gleed,Washington
+1083,Glen Avon,California
+1084,Glen Ellen,California
+1085,Glenbrook,Nevada
+1086,Glendale,California
+1087,Glendora,California
+1088,Glenn,California
+1089,Glennallen,Alaska
+1090,Glenoma,Washington
+1091,Glenview,California
+1092,Glenwood,Oregon
+1093,Glide,Oregon
+1094,Goffs,California
+1095,Golconda,Nevada
+1096,Gold Acres,Nevada
+1097,Gold Bar,Washington
+1098,Gold Beach,Oregon
+1099,Gold Hill,Oregon
+1100,Gold Point,Nevada
+1101,Gold River,California
+1102,Golden Hills,California
+1103,Goldendale,Washington
+1104,Goldfield,Nevada
+1105,Goleta,California
+1106,Golovin,Alaska
+1107,Gonzales,California
+1108,Goodnews Bay,Alaska
+1109,Goodnoe Hills,Washington
+1110,Goodsprings,Nevada
+1111,Goodyears Bar,California
+1112,Goose Prairie,Washington
+1113,Gorman,California
+1114,Gorst,Washington
+1115,Goshen,Oregon
+1116,Gost Creek,Alaska
+1117,Government Camp,Oregon
+1118,Graeagle,California
+1119,Graham,Washington
+1120,Grand Coulee,Washington
+1121,Grand Mound,Washington
+1122,Grand Ronde,Oregon
+1123,Grand Terrace,California
+1124,Grandview,Washington
+1125,Granger,Washington
+1126,Grangeville,California
+1127,Granite,Oregon
+1128,Granite Bay,California
+1129,Granite Falls,Washington
+1130,Graniteville,California
+1131,Grants Pass,Oregon
+1132,Grapeview,Washington
+1133,Grass Valley,Oregon
+1134,Graton,California
+1135,Grayland,Washington
+1136,Grayling,Alaska
+1137,Grays River,Washington
+1138,Grayson,California
+1139,Greeley Hill,California
+1140,Green,Oregon
+1141,Green Bluff,Washington
+1142,Green Valley,California
+1143,Green Valley Lake,California
+1144,Greenacres,California
+1145,Greenbank,Washington
+1146,Greenbrae,California
+1147,Greenfield,California
+1148,Greenhorn,Oregon
+1149,Greenview,California
+1150,Greenville,California
+1151,Greenwater,Washington
+1152,Grenada,California
+1153,Gresham,Oregon
+1154,Gridley,California
+1155,Grimes,California
+1156,Grisdale,Washington
+1157,Grizzly,Oregon
+1158,Grizzly Flats,California
+1159,Grossmont,California
+1160,Grotto,Washington
+1161,Groveland,California
+1162,Grover Beach,California
+1163,Guadalupe,California
+1164,Gualala,California
+1165,Guasti,California
+1166,Guerneville,California
+1167,Guinda,California
+1168,Gulkana,Alaska
+1169,Gustavus,Alaska
+1170,Gustine,California
+1171,Hacienda Heights,California
+1172,Hackamore,California
+1173,Ha'ena,Hawaii
+1174,Haines,Oregon
+1175,Haiwee,California
+1176,Hale'iwa,Hawaii
+1177,Half Moon Bay,California
+1178,Halfway,Oregon
+1179,Hali'imaile,Hawaii
+1180,Halleck,Nevada
+1181,Halsey,Oregon
+1182,Hamburg,California
+1183,Hamilton,Washington
+1184,Hamilton Branch,California
+1185,Hamilton City,California
+1186,Hammond,Oregon
+1187,Hampton,Oregon
+1188,Hana,Hawaii
+1189,Hanalei,Hawaii
+1190,Hanama'ulu,Hawaii
+1191,Hanapepe,Hawaii
+1192,Hanford,Washington
+1193,Hansville,Washington
+1194,Happy Camp,California
+1195,Happy Valley,Oregon
+1196,Harbison Canyon,California
+1197,Harbor,Oregon
+1198,Harbour Pointe,Washington
+1199,Harding Lake,Alaska
+1200,Hardman,Oregon
+1201,Hardwick,California
+1202,Harlan,Oregon
+1203,Harmony,California
+1204,Harney,Oregon
+1205,Harper,Oregon
+1206,Harrah,Washington
+1207,Harrington,Washington
+1208,Harrisburg,Oregon
+1209,Hartland,California
+1210,Hartley,California
+1211,Hartline,Washington
+1212,Hatton,Washington
+1213,Hauser,Oregon
+1214,Hau'ula,Hawaii
+1215,Hawaiian Gardens,California
+1216,Hawi,Hawaii
+1217,Hawk Inlet,Alaska
+1218,Hawthorne,California
+1219,Hay,Washington
+1220,Haycock,Alaska
+1221,Hayford,Washington
+1222,Hayfork,California
+1223,Hayward,California
+1224,Hazelwood,Oregon
+1225,Hazen,Nevada
+1226,Healdsburg,California
+1227,Healy,Alaska
+1228,Heber,California
+1229,Hebo,Oregon
+1230,Helena,California
+1231,Helendale,California
+1232,Helix,Oregon
+1233,Helm,California
+1234,Hemet,California
+1235,Henderson,Nevada
+1236,Henry,Nevada
+1237,Heppner,Oregon
+1238,Herald,California
+1239,Hercules,California
+1240,Herendeen Bay,Alaska
+1241,Herlong,California
+1242,Hermiston,Oregon
+1243,Hermosa Beach,California
+1244,Herndon,California
+1245,Hesperia,California
+1246,Hickman,California
+1247,Hidden Hills,California
+1248,Hidden Valley Lake,California
+1249,High Rock,Washington
+1250,Highgrove,California
+1251,Highland,California
+1252,Highlands,California
+1253,Highlands-Baywood Park,California
+1254,Hiko,Nevada
+1255,Hilgard,Oregon
+1256,Hillsboro,Oregon
+1257,Hillsborough,California
+1258,Hilmar,California
+1259,Hilo,Hawaii
+1260,Hilt,California
+1261,Hines,Oregon
+1262,Hinkley,California
+1263,Hiouchi,California
+1264,Ho‘olehua,Hawaii
+1265,Hobart,Washington
+1266,Hobergs,California
+1267,Hockinson,Washington
+1268,Hodge,California
+1269,Hogatza,Alaska
+1270,Holbrook Junction,Nevada
+1271,Holikachuk,Alaska
+1272,Holland,Oregon
+1273,Holley,Oregon
+1274,Hollis,Alaska
+1275,Hollister,California
+1276,Holly,Washington
+1277,Hollywood,California
+1278,Holtville,California
+1279,Holualoa,Hawaii
+1280,Holy Cross,Alaska
+1281,Home,Washington
+1282,Home Garden,California
+1283,Home Gardens,California
+1284,Homeland,California
+1285,Homer,Alaska
+1286,Homestead,Oregon
+1287,Homestead Valley,California
+1288,Honalo,Hawaii
+1289,Honcut,California
+1290,Honda,California
+1291,Honeydew,California
+1292,Honoka'a,Hawaii
+1293,Honokahua,Hawaii
+1294,Honolulu,Hawaii
+1295,Honomu,Hawaii
+1296,Honu‘apo,Hawaii
+1297,Hood,California
+1298,Hood River,Oregon
+1299,Hoodsport,Washington
+1300,Hoonah,Alaska
+1301,Hoopa,California
+1302,Hooper,Washington
+1303,Hooper Bay,Alaska
+1304,Hope,Alaska
+1305,Hopland,California
+1306,Hoquiam,Washington
+1307,Hornbrook,California
+1308,Hornitos,California
+1309,Hoskins,Oregon
+1310,Houghton,Washington
+1311,Houston,Alaska
+1312,Hubbard,Oregon
+1313,Hughes,Alaska
+1314,Hughson,California
+1315,Humboldt,Nevada
+1316,Humboldt River Ranch,Nevada
+1317,Humptulips,Washington
+1318,Hunters,Washington
+1319,Huntington,Oregon
+1320,Huntington Beach,California
+1321,Huntington Park,California
+1322,Hunts Point,Washington
+1323,Huntsville,Washington
+1324,Huron,California
+1325,Huslia,Alaska
+1326,Husum,Washington
+1327,Hyak,Washington
+1328,Hyampom,California
+1329,Hydaburg,Alaska
+1330,Hyder,Alaska
+1331,Hydesville,California
+1332,Idanha,Oregon
+1333,Idlewild,California
+1334,Idleyld Park,Oregon
+1335,Idria,California
+1336,Idyllwild,California
+1337,Igiugig,Alaska
+1338,Ignacio,California
+1339,Igo,California
+1340,Ikatan,Alaska
+1341,Iliamna,Alaska
+1342,Ilwaco,Washington
+1343,Imbler,Oregon
+1344,Imlay,Nevada
+1345,Imperial,California
+1346,Imperial Beach,California
+1347,Inchelium,Washington
+1348,Incline Village,Nevada
+1349,Independence,California
+1350,Index,Washington
+1351,Indian Falls,California
+1352,Indian Springs,Nevada
+1353,Indian Wells,California
+1354,Indianola,Washington
+1355,Indio,California
+1356,Indio Hills,California
+1357,Industry,California
+1358,Inglewood,California
+1359,Ingot,California
+1360,inst_name,inst_class
+1361,Interlaken,California
+1362,Inverness,California
+1363,Inyokern,California
+1364,Ione,California
+1365,Irby,Washington
+1366,Irondale,Washington
+1367,Ironside,Oregon
+1368,Irrigon,Oregon
+1369,Irvine,California
+1370,Irwin,California
+1371,Irwindale,California
+1372,Isla Vista,California
+1373,Island City,Oregon
+1374,Island Mountain,California
+1375,Island View,Washington
+1376,Islen,Nevada
+1377,Isleton,California
+1378,Issaquah,Washington
+1379,Ivanhoe,California
+1380,Ivanof Bay,Alaska
+1381,Ivanpah,California
+1382,Izee,Oregon
+1383,Jackpot,Nevada
+1384,Jackson,California
+1385,Jacksonville,Oregon
+1386,Jacumba,California
+1387,Jakolof Bay,Alaska
+1388,Jamacha Junction,California
+1389,Jamestown,California
+1390,Jamieson,Oregon
+1391,Jamul,California
+1392,Janesville,California
+1393,Jarbidge,Nevada
+1394,Jean,Nevada
+1395,Jefferson,Oregon
+1396,Jenner,California
+1397,Jennings Lodge,Oregon
+1398,Jesmond Dene,California
+1399,Johannesburg,California
+1400,John Day,Oregon
+1401,John Sam Lake,Washington
+1402,Johnson,Washington
+1403,Johnson City,Oregon
+1404,Johnsondale,California
+1405,Johnstonville,California
+1406,Johnstown,California
+1407,Johnsville,California
+1408,Jonesville,Alaska
+1409,Jordan Valley,Oregon
+1410,Joseph,Oregon
+1411,Joshua Tree,California
+1412,Joyce,Washington
+1413,Juanita,Washington
+1414,Julian,California
+1415,Junction City,Washington
+1416,June Lake,California
+1417,Juneau,Alaska
+1418,Jungo,Nevada
+1419,Juntura,Oregon
+1420,Ka'anapali,Hawaii
+1421,Kachemak,Alaska
+1422,Kahakuloa,Hawaii
+1423,Kahalu'u,Hawaii
+1424,Kahlotus,Washington
+1425,Kahului,Hawaii
+1426,Kailua,Hawaii
+1427,Kake,Alaska
+1428,Kaktovik,Alaska
+1429,Kalaheo,Hawaii
+1430,Kalaloch,Washington
+1431,Kalama,Washington
+1432,Kalapana,Hawaii
+1433,Kalaupapa,Hawaii
+1434,Kalifornsky,Alaska
+1435,Kalskag,Alaska
+1436,Kaltag,Alaska
+1437,Kalua‘aha,Hawaii
+1438,Kamalo,Hawaii
+1439,Kanaskat,Washington
+1440,Kane'ohe,Hawaii
+1441,Kangley,Washington
+1442,Kapa'a,Hawaii
+1443,Kapolei,Hawaii
+1444,Kapowsin,Washington
+1445,Karluk,Alaska
+1446,Kasaan,Alaska
+1447,Kashegelok,Alaska
+1448,Kasigluk,Alaska
+1449,Kasilof,Alaska
+1450,Katalla,Alaska
+1451,Kaumalapau,Hawaii
+1452,Kaunakakai,Hawaii
+1453,Kawaihae,Hawaii
+1454,Kaweah,California
+1455,Kea'au,Hawaii
+1456,Keating,Oregon
+1457,Keauhou,Hawaii
+1458,Keddie,California
+1459,Keeler,California
+1460,Keene,California
+1461,Keizer,Oregon
+1462,Kekaha,Hawaii
+1463,Keller,Washington
+1464,Kelly Ridge,California
+1465,Kelseyville,California
+1466,Kelso,Washington
+1467,Kenai,Alaska
+1468,Kendall,Washington
+1469,Kenmore,Washington
+1470,Kennard Corner,Washington
+1471,Kennewick,Washington
+1472,Kenny Lake,Alaska
+1473,Kennydale,Washington
+1474,Keno,Oregon
+1475,Kensington,California
+1476,Kent,Washington
+1477,Kentfield,California
+1478,Kenwood,California
+1479,Kerby,Oregon
+1480,Kerman,California
+1481,Kernville,California
+1482,Keswick,California
+1483,Ketchikan,Alaska
+1484,Kettle Falls,Washington
+1485,Kettleman City,California
+1486,Kewa,Washington
+1487,Key Center,Washington
+1488,Keyes,California
+1489,Keyport,Washington
+1490,Kiana,Alaska
+1491,Kihei,Hawaii
+1492,Kilauea,Hawaii
+1493,Kilkare Woods,California
+1494,Kimberly,Oregon
+1495,King City,California
+1496,King Cove,Alaska
+1497,King Salmon,Alaska
+1498,Kings Beach,California
+1499,Kings Valley,Oregon
+1500,Kingsburg,California
+1501,Kingston,Washington
+1502,Kingvale,California
+1503,Kipahulu,Hawaii
+1504,Kipnuk,Alaska
+1505,Kirk,Oregon
+1506,Kirkland,Washington
+1507,Kirkwood,California
+1508,Kitsap Lake,Washington
+1509,Kittitas,Washington
+1510,Kivalina,Alaska
+1511,Kiwalik,Alaska
+1512,Klamath,California
+1513,Klamath Agency,Oregon
+1514,Klamath Falls,Oregon
+1515,Klamath River,California
+1516,Klawock,Alaska
+1517,Klickitat,Washington
+1518,Klukwan,Alaska
+1519,Knappa,Oregon
+1520,Kneeland,California
+1521,Knights Landing,California
+1522,Knightsen,California
+1523,Knik,Alaska
+1524,Ko Olina,Hawaii
+1525,Kobuk,Alaska
+1526,Kodiak,Alaska
+1527,Koggiung,Alaska
+1528,Kokhanok,Alaska
+1529,Kokrines,Alaska
+1530,Koliganek,Alaska
+1531,Koloa,Hawaii
+1532,Komandorski Village,California
+1533,Kongiganak,Alaska
+1534,Koontzville,Washington
+1535,Korbel,California
+1536,Kosmos,Washington
+1537,Kotlik,Alaska
+1538,Kotzebue,Alaska
+1539,Koyuk,Alaska
+1540,Koyukuk,Alaska
+1541,Kramer Junction,California
+1542,Krupp,Washington
+1543,Kummer,Washington
+1544,Kustatan,Alaska
+1545,Kvichak,Alaska
+1546,Kwethluk,Alaska
+1547,Kwigillingok,Alaska
+1548,Kyburz,California
+1549,La Cañada Flintridge,California
+1550,La Center,Washington
+1551,La Conner,Washington
+1552,La Crescenta,California
+1553,La Crosse,Washington
+1554,La Grande,Oregon
+1555,La Habra,California
+1556,La Habra Heights,California
+1557,La Honda,California
+1558,La Mesa,California
+1559,La Mirada,California
+1560,La Palma,California
+1561,La Pine,Oregon
+1562,La Porte,California
+1563,La Presa,California
+1564,La Puente,California
+1565,La Push,Washington
+1566,La Quinta,California
+1567,La Selva Beach,California
+1568,La Verne,California
+1569,La Vina,California
+1570,Lacey,Washington
+1571,Lacomb,Oregon
+1572,Lafayette,California
+1573,Laguna Beach,California
+1574,Laguna Hills,California
+1575,Laguna Niguel,California
+1576,Laguna Woods,California
+1577,Lagunitas,California
+1578,Lagunitas-Forest Knolls,California
+1579,Lahaina,Hawaii
+1580,La'ie,Hawaii
+1581,Lake Arrowhead,California
+1582,Lake California,California
+1583,Lake City,California
+1584,Lake Creek,Oregon
+1585,Lake Davis,California
+1586,Lake Elsinore,California
+1587,Lake Forest,California
+1588,Lake Forest Park,Washington
+1589,Lake Hills,Washington
+1590,Lake Hughes,California
+1591,Lake Isabella,California
+1592,Lake Los Angeles,California
+1593,Lake Minchumina,Alaska
+1594,Lake Nacimiento,California
+1595,Lake of the Pines,California
+1596,Lake of the Woods,California
+1597,Lake Oswego,Oregon
+1598,Lake Riverside,California
+1599,Lake San Marcos,California
+1600,Lake Sherwood,California
+1601,Lake Stevens,Washington
+1602,Lakebay,Washington
+1603,Lakehead,California
+1604,Lakeland Village,California
+1605,Lakeport,California
+1606,Lakeridge,Nevada
+1607,Lakeshore,California
+1608,Lakeside,California
+1609,Lakeview,California
+1610,Lakewood,California
+1611,Lakota,Washington
+1612,Lamoille,Nevada
+1613,Lamoine,California
+1614,Lamona,Washington
+1615,Lamont,California
+1616,Lana'i City,Hawaii
+1617,Lanare,California
+1618,Lancaster,California
+1619,Lane City,Nevada
+1620,Langley,Washington
+1621,Langlois,Oregon
+1622,Larimers Corner,Washington
+1623,Larkspur,California
+1624,Larsen Bay,Alaska
+1625,Las Cruces,California
+1626,Las Flores,California
+1627,Las Vegas,Nevada
+1628,Latah,Washington
+1629,Lathrop,California
+1630,Laton,California
+1631,Laughlin,Nevada
+1632,Laupahoehoe,Hawaii
+1633,Laurel,Washington
+1634,Laurier,Washington
+1635,Lawa'i,Hawaii
+1636,Lawen,Oregon
+1637,Lawndale,California
+1638,Laws,California
+1639,Laytonville,California
+1640,Le Grand,California
+1641,Leaburg,Oregon
+1642,Leadpoint,Washington
+1643,Leavenworth,Washington
+1644,Lebam,Washington
+1645,Lebanon,Oregon
+1646,Lebec,California
+1647,Lee,Nevada
+1648,Lee Vining,California
+1649,Lees Camp,Alaska
+1650,Leggett,California
+1651,Leland,Washington
+1652,Lemeta,Alaska
+1653,Lemon Cove,California
+1654,Lemon Grove,California
+1655,Lemon Heights,California
+1656,Lemoncove,California
+1657,Lemoore,California
+1658,Lemoore Station,California
+1659,Lennox,California
+1660,Lenwood,California
+1661,Leona Valley,California
+1662,Lester,Washington
+1663,Leucadia,California
+1664,Levelock,Alaska
+1665,Lewiston,California
+1666,Lexington,Washington
+1667,Libbyville,Alaska
+1668,Liberty,Washington
+1669,Liberty Lake,Washington
+1670,Lida,Nevada
+1671,Lignite,Alaska
+1672,Lihu'e,Hawaii
+1673,Likely,California
+1674,Lilliwaup,Washington
+1675,Lime,Oregon
+1676,Lime Village,Alaska
+1677,Lincoln,California
+1678,Lincoln Acres,California
+1679,Lincoln Beach,Oregon
+1680,Lincoln City,Oregon
+1681,Lind,Washington
+1682,Linda,California
+1683,Lindcove,California
+1684,Linden,California
+1685,Lindsay,California
+1686,Lisabeula,Washington
+1687,Litchfield,California
+1688,Little Lake,California
+1689,Little River,California
+1690,Littlerock,California
+1691,Live Oak,California
+1692,Live Oak Springs,California
+1693,Livengood,Alaska
+1694,Livermore,California
+1695,Livingston,California
+1696,Lockeford,California
+1697,Lockwood,California
+1698,Lodi,California
+1699,Lodoga,California
+1700,Lofall,Washington
+1701,Logandale,Nevada
+1702,Logsden,Oregon
+1703,Loleta,California
+1704,Loma Linda,California
+1705,Loma Mar,California
+1706,Loma Rica,California
+1707,Lomita,California
+1708,Lompico,California
+1709,Lompoc,California
+1710,London,California
+1711,Lone Pine,California
+1712,Lonerock,Oregon
+1713,Long,Alaska
+1714,Long Barn,California
+1715,Long Beach,California
+1716,Long Creek,Oregon
+1717,Long Island,Alaska
+1718,Long Lake,Washington
+1719,Longbranch,Washington
+1720,Longmire,Washington
+1721,Longview,Washington
+1722,Lookingglass,Oregon
+1723,Lookout,California
+1724,Loomis,California
+1725,Loon Lake,Washington
+1726,Loring,Alaska
+1727,Los Alamitos,California
+1728,Los Alamos,California
+1729,Los Altos,California
+1730,Los Altos Hills,California
+1731,Los Angeles,California
+1732,Los Banos,California
+1733,Los Berros,California
+1734,Los Gatos,California
+1735,Los Medanos,California
+1736,Los Molinos,California
+1737,Los Nietos,California
+1738,Los Olivos,California
+1739,Los Osos,California
+1740,Los Serranos,California
+1741,Los Trancos Woods,California
+1742,Lost Creek,Washington
+1743,Lost Hills,California
+1744,Lostine,Oregon
+1745,Lovelock,Nevada
+1746,Lowell,Oregon
+1747,Lower Kalskag,Alaska
+1748,Lower Lake,California
+1749,Lower Tonsina,Alaska
+1750,Loyalton,California
+1751,Lucas Valley,California
+1752,Lucerne,Washington
+1753,Lucerne Valley,California
+1754,Ludlow,California
+1755,Lund,Nevada
+1756,Luning,Nevada
+1757,Lyle,Washington
+1758,Lyman,Washington
+1759,Lynden,Washington
+1760,Lynnwood,Washington
+1761,Lynwood,California
+1762,Lynwood Hills,California
+1763,Lyons,Oregon
+1764,Lytle Creek,California
+1765,Lytton,California
+1766,Ma'alaea,Hawaii
+1767,Mabana,Washington
+1768,Mabie,California
+1769,Mabton,Washington
+1770,Macdoel,California
+1771,Machias,Washington
+1772,Mad River,California
+1773,Madeline,California
+1774,Madera,California
+1775,Madison,California
+1776,Madras,Oregon
+1777,Magalia,California
+1778,Magnolia Beach,Washington
+1779,Mahukona,Hawaii
+1780,Ma'ili,Hawaii
+1781,Makaha,Hawaii
+1782,Makakilo,Hawaii
+1783,Makawao,Hawaii
+1784,Makena,Hawaii
+1785,Malaga,California
+1786,Malden,Washington
+1787,Malibu,California
+1788,Malin,Oregon
+1789,Malo,Washington
+1790,Malone,Washington
+1791,Malott,Washington
+1792,Maltby,Washington
+1793,Mammoth Lakes,California
+1794,Mana,Hawaii
+1795,Manchester,California
+1796,Manele,Hawaii
+1797,Manhattan,Nevada
+1798,Manhattan Beach,California
+1799,Manila,California
+1800,Manley Hot Springs,Alaska
+1801,Manokotak,Alaska
+1802,Mansfield,Washington
+1803,Manson,Washington
+1804,Manteca,California
+1805,Manton,California
+1806,Manzanita,Oregon
+1807,Maple Falls,Washington
+1808,Maple Valley,Washington
+1809,Mapleton,Oregon
+1810,Maplewood,Washington
+1811,Marble,Washington
+1812,Marblemount,Washington
+1813,Marcellus,Washington
+1814,Marcola,Oregon
+1815,Marcus,Washington
+1816,Marengo,Washington
+1817,Maricopa,California
+1818,Marietta,Washington
+1819,Marin City,California
+1820,Marina,California
+1821,Marina del Rey,California
+1822,Marinwood,California
+1823,Marion,Oregon
+1824,Mariposa,California
+1825,Markham,Washington
+1826,Markleeville,California
+1827,Marshall,Washington
+1828,Martell,California
+1829,Martinez,California
+1830,Maryhill,Washington
+1831,Marys Corner,Washington
+1832,Mary's Igloo,Alaska
+1833,Marysville,California
+1834,Matanuska,Alaska
+1835,Matlock,Washington
+1836,Mattawa,Washington
+1837,Maunaloa,Hawaii
+1838,Maupin,Oregon
+1839,Maxwell,California
+1840,Maxwelton,Washington
+1841,May Creek,Alaska
+1842,Mayfair,California
+1843,Mayville,Oregon
+1844,Maywood,California
+1845,Maywood Park,Oregon
+1846,Mazama,Washington
+1847,McArthur,California
+1848,McCarthy,Alaska
+1849,McCleary,Washington
+1850,McCloud,California
+1851,McCord,Alaska
+1852,McCredie Springs,Oregon
+1853,McDermitt,Nevada
+1854,McDonald,Washington
+1855,McFarland,California
+1856,McGill,Nevada
+1857,McGrath,Alaska
+1858,McKenna,Washington
+1859,McKenzie Bridge,Oregon
+1860,McKinley Park,Alaska
+1861,McKinleyville,California
+1862,McKittrick,California
+1863,McMillin,Washington
+1864,McMinnville,Oregon
+1865,McMurray,Washington
+1866,Meacham,Oregon
+1867,Mead,Washington
+1868,Meadow Glade,Washington
+1869,Meadow Valley,California
+1870,Meadow Vista,California
+1871,Meadowdale,Washington
+1872,Mecca,California
+1873,Medford,Oregon
+1874,Medfra,Alaska
+1875,Medical Lake,Washington
+1876,Medina,Washington
+1877,Meeks Bay,California
+1878,Megler,Washington
+1879,Mehama,Oregon
+1880,Meiners Oaks,California
+1881,Mekoryuk,Alaska
+1882,Melbourne,Washington
+1883,Melrose,Oregon
+1884,Mendocino,California
+1885,Mendota,California
+1886,Menifee,California
+1887,Menlo,Washington
+1888,Menlo Park,California
+1889,Mentasta Lake,Alaska
+1890,Mentone,California
+1891,Merced,California
+1892,Mercer Island,Washington
+1893,Mercury,Nevada
+1894,Meridian,California
+1895,Merlin,Oregon
+1896,Merrill,Oregon
+1897,Merritt,Washington
+1898,Mertarvik,Alaska
+1899,Mesa,Washington
+1900,Mesa Grande,California
+1901,Mesa Verde,California
+1902,Mesquite,Nevada
+1903,Metaline,Washington
+1904,Metaline Falls,Washington
+1905,Methow,Washington
+1906,Metlakatla,Alaska
+1907,Metolius,Oregon
+1908,Mettler,California
+1909,Metzger,Oregon
+1910,Mexican Colony,California
+1911,Meyers Chuck,Alaska
+1912,Midas,Nevada
+1913,Middletown,California
+1914,Midland,Washington
+1915,Midpines,California
+1916,Midvale Corner,Washington
+1917,Midway,Washington
+1918,Midway City,California
+1919,Mikkalo,Oregon
+1920,Milan,Washington
+1921,Miles,Washington
+1922,Milford,California
+1923,Mililani,Hawaii
+1924,Mill City,Oregon
+1925,Mill Creek,Washington
+1926,Mill Valley,California
+1927,Millbrae,California
+1928,Miller House,Alaska
+1929,Millers Landing,Alaska
+1930,Millersburg,Oregon
+1931,Millville,California
+1932,Millwood,Washington
+1933,Milo,Oregon
+1934,Miloli‘i,Hawaii
+1935,Milpitas,California
+1936,Milton,Washington
+1937,Milton-Freewater,Oregon
+1938,Milwaukie,Oregon
+1939,Mina,Nevada
+1940,Minam,Oregon
+1941,Minden,Nevada
+1942,Mineral,Washington
+1943,Minkler,California
+1944,Minnehaha,Washington
+1945,Minto,Alaska
+1946,Mira Loma,California
+1947,Mira Monte,California
+1948,Miracle Hot Springs,California
+1949,Miranda,California
+1950,Mission,Oregon
+1951,Mission Beach,Washington
+1952,Mission Viejo,California
+1953,Mist,Oregon
+1954,Mitchell,Oregon
+1955,Mi-Wuk Village,California
+1956,Moapa,Nevada
+1957,Moccasin,California
+1958,Moclips,Washington
+1959,Modesto,California
+1960,Mogul,Nevada
+1961,Mohler,Washington
+1962,Mojave,California
+1963,Mokelumne Hill,California
+1964,Molalla,Oregon
+1965,Molson,Washington
+1966,Mondovi,Washington
+1967,Monitor,Washington
+1968,Monmouth,California
+1969,Mono Vista,California
+1970,Monolith,California
+1971,Monroe,Washington
+1972,Monrovia,California
+1973,Monse,Washington
+1974,Monson,California
+1975,Monta Vista,California
+1976,Montague,California
+1977,Montalvo,California
+1978,Montana,Alaska
+1979,Montara,California
+1980,Montclair,California
+1981,Monte Rio,California
+1982,Monte Sereno,California
+1983,Montebello,California
+1984,Montecito,California
+1985,Montello,Nevada
+1986,Monterey,California
+1987,Monterey Park,California
+1988,Monterey Park Tract,California
+1989,Montesano,Washington
+1990,Montgomery Creek,California
+1991,Montpelier,California
+1992,Montrose,California
+1993,Monument,Oregon
+1994,Moonstone,California
+1995,Moorpark,California
+1996,Moose Pass,Alaska
+1997,Moraga,California
+1998,Moreno,California
+1999,Moreno Valley,California
+2000,Morgan Hill,California
+2001,Moro,Oregon
+2002,Morongo Valley,California
+2003,Morro Bay,California
+2004,Morton,Washington
+2005,Morzhovoi,Alaska
+2006,Moses Lake,Washington
+2007,Mosier,Oregon
+2008,Moss Beach,California
+2009,Moss Landing,California
+2010,Mossyrock,Washington
+2011,Mount Angel,Oregon
+2012,Mount Baldy,California
+2013,Mount Charleston,Nevada
+2014,Mount Eden,California
+2015,Mount Hebron,California
+2016,Mount Hermon,California
+2017,Mount Hood,Oregon
+2018,Mount Laguna,California
+2019,Mount Montgomery,Nevada
+2020,Mount Shasta,California
+2021,Mount Vernon,Washington
+2022,Mountain Center,California
+2023,Mountain City,Nevada
+2024,Mountain Gate,California
+2025,Mountain House,California
+2026,Mountain Mesa,California
+2027,Mountain Ranch,California
+2028,Mountain View,California
+2029,Mountain View Acres,California
+2030,Mountain Village,Alaska
+2031,Mountlake Terrace,Washington
+2032,Moxee,Washington
+2033,Muir Beach,California
+2034,Mukilteo,Washington
+2035,Mulino,Oregon
+2036,Murphy,Oregon
+2037,Murphys,California
+2038,Murphys Corner,Washington
+2039,Murrieta,California
+2040,Murrieta Hot Springs,California
+2041,Myers Flat,California
+2042,Myrtle Creek,Oregon
+2043,Myrtle Point,Oregon
+2044,Myrtletown,California
+2045,Na'alehu,Hawaii
+2046,Nabesna,Alaska
+2047,Naches,Washington
+2048,Naknek,Alaska
+2049,Nanakuli,Hawaii
+2050,Napa,California
+2051,Napakiak,Alaska
+2052,Napaskiak,Alaska
+2053,Napavine,Washington
+2054,Narod,California
+2055,Naselle,Washington
+2056,National City,California
+2057,Naukati Bay,Alaska
+2058,Navy Yard City,Washington
+2059,Neah Bay,Washington
+2060,Needles,California
+2061,Nehalem,Oregon
+2062,Neilton,Washington
+2063,Nelson,Nevada
+2064,Nemah,Washington
+2065,Nenana,Alaska
+2066,Nesika Beach,Oregon
+2067,Neskowin,Oregon
+2068,Nespelem,Washington
+2069,Netarts,Oregon
+2070,Nevada City,California
+2071,New Cuyama,California
+2072,New Hope,Oregon
+2073,New London,Washington
+2074,New Pine Creek,Oregon
+2075,New Stuyahok,Alaska
+2076,New Tokeen,Alaska
+2077,New Washoe City,Nevada
+2078,Newark,California
+2079,Newaukum,Washington
+2080,Newberg,Oregon
+2081,Newberry Springs,California
+2082,Newcastle,Washington
+2083,Newell,California
+2084,Newhalem,Washington
+2085,Newhalen,Alaska
+2086,Newhall,California
+2087,Newman,California
+2088,Newman Lake,Washington
+2089,Newport,Washington
+2090,Newport Beach,California
+2091,Newport Hills,Washington
+2092,Newtok,Alaska
+2093,Newville,California
+2094,Nicasio,California
+2095,Nice,California
+2096,Nicolaus,California
+2097,Nighthawk,Washington
+2098,Nightmute,Alaska
+2099,Nikolai,Alaska
+2100,Nikolski,Alaska
+2101,Niland,California
+2102,Nile,Washington
+2103,Nine Mile Falls,Washington
+2104,Ninilchik,Alaska
+2105,Nipinnawasee,California
+2106,Nipomo,California
+2107,Nipton,California
+2108,Nisqually,Washington
+2109,Niuli‘i,Hawaii
+2110,Nixon,Nevada
+2111,Noatak,Alaska
+2112,Nome,Alaska
+2113,Nondalton,Alaska
+2114,Nooksack,Washington
+2115,Noorvik,Alaska
+2116,Norco,California
+2117,Nord,California
+2118,Nordland,Washington
+2119,Normandy Park,Washington
+2120,Norris Canyon,California
+2121,North Albany,Oregon
+2122,North Bend,Washington
+2123,North Bonneville,Washington
+2124,North City,Washington
+2125,North Edwards,California
+2126,North Fork,Nevada
+2127,North Highlands,California
+2128,North Hill,Washington
+2129,North Lakeport,California
+2130,North Las Vegas,Nevada
+2131,North Plains,Oregon
+2132,North Pole,Alaska
+2133,North Powder,Oregon
+2134,North Richmond,California
+2135,North San Juan,California
+2136,North Shore,California
+2137,North Springfield,Oregon
+2138,North Tustin,California
+2139,Northport,Washington
+2140,Northway,Alaska
+2141,Norwalk,California
+2142,Norway,Oregon
+2143,Novato,California
+2144,Novelty,Washington
+2145,Nubieber,California
+2146,Nuevo,California
+2147,Nuiqsut,Alaska
+2148,Nulato,Alaska
+2149,Nunaka Valley,Alaska
+2150,Nunam Iqua,Alaska
+2151,Nunapitchuk,Alaska
+2152,Nushagak,Alaska
+2153,Nyac,Alaska
+2154,Nyssa,Oregon
+2155,'O‘okala,Hawaii
+2156,Oak Glen,California
+2157,Oak Grove,Oregon
+2158,Oak Harbor,Washington
+2159,Oak Hills,California
+2160,Oak Park,California
+2161,Oak Shores,California
+2162,Oak View,California
+2163,Oakdale,California
+2164,Oakesdale,Washington
+2165,Oakhurst,California
+2166,Oakland,California
+2167,Oakley,California
+2168,Oakridge,Oregon
+2169,Oakville,Washington
+2170,Oasis,California
+2171,O'Brien,Oregon
+2172,Occidental,California
+2173,Ocean City,Washington
+2174,Ocean Park,Washington
+2175,Ocean Shores,Washington
+2176,Oceano,California
+2177,Oceanside,California
+2178,Ocotillo,California
+2179,Odell,Oregon
+2180,Odessa,Washington
+2181,Ogilby,California
+2182,Ohop,Washington
+2183,Oildale,California
+2184,Ojai,California
+2185,Okanogan,Washington
+2186,Olalla,Washington
+2187,Olancha,California
+2188,Old Fig Garden,California
+2189,Old Harbor,Alaska
+2190,Old Minto,Alaska
+2191,Old Station,California
+2192,Olene,Oregon
+2193,Olex,Oregon
+2194,Olivehurst,California
+2195,Olnes,Alaska
+2196,Olowalu,Hawaii
+2197,Olympia,Washington
+2198,Olympic View,Washington
+2199,Omak,Washington
+2200,Omo Ranch,California
+2201,Onalaska,Washington
+2202,O'Neals,California
+2203,Ono,California
+2204,Ontario,California
+2205,Onyx,California
+2206,Opal Cliffs,California
+2207,Ophir,Alaska
+2208,Opihikao,Hawaii
+2209,Opportunity,Washington
+2210,Orange,California
+2211,Orange Cove,California
+2212,Orange Park Acres,California
+2213,Orangevale,California
+2214,Orcas,Washington
+2215,Orchards,Washington
+2216,Orcutt,California
+2217,Oreana,Nevada
+2218,Oregon City,Oregon
+2219,Orick,California
+2220,Orient,Washington
+2221,Orinda,California
+2222,Orland,California
+2223,Orleans,California
+2224,Oro Grande,California
+2225,Orosi,California
+2226,Orovada,Nevada
+2227,Oroville,California
+2228,Orting,Washington
+2229,Oscarville,Alaska
+2230,Osino,Nevada
+2231,Oskawalik,Alaska
+2232,Oso,Washington
+2233,Ostrander,Washington
+2234,Otay,California
+2235,Othello,Washington
+2236,Otis,Oregon
+2237,Otis Orchards,Washington
+2238,Otterbein,California
+2239,Outlook,Washington
+2240,Ouzinkie,Alaska
+2241,Overton,Nevada
+2242,Owenyo,California
+2243,Owyhee,Nevada
+2244,Oxnard,California
+2245,Oyehut,Washington
+2246,Oysterville,Washington
+2247,Pa'auilo,Hawaii
+2248,Pacheco,California
+2249,Pacific,Washington
+2250,Pacific Beach,Washington
+2251,Pacific City,Oregon
+2252,Pacific Grove,California
+2253,Pacifica,California
+2254,Packwood,Washington
+2255,Pahala,Hawaii
+2256,Pahoa,Hawaii
+2257,Pahrump,Nevada
+2258,Pa'ia,Hawaii
+2259,Paicines,California
+2260,Paisley,Oregon
+2261,Pajaro,California
+2262,Pala,California
+2263,Palermo,California
+2264,Palisade,Nevada
+2265,Palisades,Washington
+2266,Palm Desert,California
+2267,Palm Desert Country,California
+2268,Palm Springs,California
+2269,Palmdale,California
+2270,Palmer,Washington
+2271,Palo Alto,California
+2272,Palo Cedro,California
+2273,Palo Verde,California
+2274,Palomar Park,California
+2275,Palos Verdes Estates,California
+2276,Palouse,Washington
+2277,Panaca,Nevada
+2278,Panorama Heights,California
+2279,Papa‘aloa,Hawaii
+2280,Papa'ikou,Hawaii
+2281,Paradise,California
+2282,Paradise Park,California
+2283,Paradise Valley,Nevada
+2284,Paramount,California
+2285,Parkdale,Oregon
+2286,Parker,Washington
+2287,Parkfield,California
+2288,Parkland,Washington
+2289,Parkway,California
+2290,Parlier,California
+2291,Parran,Nevada
+2292,Pasadena,California
+2293,Pasco,Washington
+2294,Paskenta,California
+2295,Pataha,Washington
+2296,Pateros,Washington
+2297,Paterson,Washington
+2298,Patrick,Nevada
+2299,Patsville,Nevada
+2300,Patterson,California
+2301,Patterson Tract,California
+2302,Pauka'a,Hawaii
+2303,Paulina,Oregon
+2304,Paxson,Alaska
+2305,Paxton,California
+2306,Paynes Creek,California
+2307,Pe Ell,Washington
+2308,Pearblossom,California
+2309,Pearl City,Hawaii
+2310,Pebble Beach,California
+2311,Pedley,California
+2312,Pedro Bay,Alaska
+2313,Pelican,Alaska
+2314,Pendleton,Oregon
+2315,Penngrove,California
+2316,Penryn,California
+2317,Peoria,Oregon
+2318,Pepe'ekeo,Hawaii
+2319,Pequop,Nevada
+2320,Perez,California
+2321,Perris,California
+2322,Perrydale,Oregon
+2323,Perryville,Alaska
+2324,Pescadero,California
+2325,Peshastin,Washington
+2326,Petaluma,California
+2327,Peters,California
+2328,Petersburg,Alaska
+2329,Petersville,Alaska
+2330,Petrolia,California
+2331,Phelan,California
+2332,Phillipsville,California
+2333,Philo,California
+2334,Philomath,Oregon
+2335,Phoenix,Oregon
+2336,Phoenix Lake,California
+2337,Pico Rivera,California
+2338,Piedmont,California
+2339,Piercy,California
+2340,Pike,California
+2341,Pilot Hill,California
+2342,Pilot Point,Alaska
+2343,Pilot Rock,Oregon
+2344,Pilot Station,Alaska
+2345,Pine,Oregon
+2346,Pine City,Washington
+2347,Pine Cove,California
+2348,Pine Flat,California
+2349,Pine Grove,California
+2350,Pine Lake,Washington
+2351,Pine Mountain Lake,California
+2352,Pine Valley,California
+2353,Pinedale,California
+2354,Pinehurst,California
+2355,Pineridge,California
+2356,Pinole,California
+2357,Piñon Hills,California
+2358,Pioche,Nevada
+2359,Pioneer,California
+2360,Piru,California
+2361,Pismo Beach,California
+2362,Pistol River,Oregon
+2363,Pitkas Point,Alaska
+2364,Pittsburg,California
+2365,Pixley,California
+2366,Placentia,California
+2367,Placer,Oregon
+2368,Placerville,California
+2369,Plain,Washington
+2370,Plainview,California
+2371,Planada,California
+2372,Plaster City,California
+2373,Platina,California
+2374,Platinum,Alaska
+2375,Plaza,Washington
+2376,Pleasant Hill,California
+2377,Pleasanton,California
+2378,Plumas Lake,California
+2379,Plush,Oregon
+2380,Plymouth,California
+2381,Point Arena,California
+2382,Point Baker,Alaska
+2383,Point Hope,Alaska
+2384,Point Lay,Alaska
+2385,Point Reyes Station,California
+2386,Point Roberts,Washington
+2387,Pollock Pines,California
+2388,Pomeroy,Washington
+2389,Pomona,California
+2390,Pond,California
+2391,Pondosa,California
+2392,Pope Valley,California
+2393,Poplar,California
+2394,Port Alsworth,Alaska
+2395,Port Angeles,Washington
+2396,Port Armstrong,Alaska
+2397,Port Ashton,Alaska
+2398,Port Blakely,Washington
+2399,Port Chilkoot,Alaska
+2400,Port Costa,California
+2401,Port Gamble,Washington
+2402,Port Graham,Alaska
+2403,Port Hadlock,Washington
+2404,Port Heiden,Alaska
+2405,Port Hueneme,California
+2406,Port Lions,Alaska
+2407,Port Ludlow,Washington
+2408,Port Madison,Washington
+2409,Port Moller,Alaska
+2410,Port O'Brien,Alaska
+2411,Port Orchard,Washington
+2412,Port Orford,Oregon
+2413,Port Townsend,Washington
+2414,Port Wakefield,Alaska
+2415,Port William,Alaska
+2416,Portage,Washington
+2417,Porter,Washington
+2418,Porterville,California
+2419,Portland,Oregon
+2420,Portola,California
+2421,Portola Valley,California
+2422,Posey,California
+2423,Poso Park,California
+2424,Possession,Washington
+2425,Post,Oregon
+2426,Potrero,California
+2427,Potter Valley,California
+2428,Poulsbo,Washington
+2429,Poway,California
+2430,Powell Butte,Oregon
+2431,Powellhurst,Oregon
+2432,Powers,Oregon
+2433,Prairie City,Oregon
+2434,Prattville,California
+2435,Prescott,Washington
+2436,Preston,Washington
+2437,Priest Point,Washington
+2438,Princeton,California
+2439,Princeville,Hawaii
+2440,Prineville,Oregon
+2441,Proberta,California
+2442,Pronto,Nevada
+2443,Prospect,Oregon
+2444,Prosser,Washington
+2445,Prudhoe Bay,Alaska
+2446,Prunedale,California
+2447,Pu‘uwai,Hawaii
+2448,Puako,Hawaii
+2449,Pullman,Washington
+2450,Punalu‘u,Hawaii
+2451,Punalu'u,Hawaii
+2452,Pupukea,Hawaii
+2453,Purdy,Washington
+2454,Puyallup,Washington
+2455,Pyramid,Nevada
+2456,Quail Valley,California
+2457,Quartz Hill,California
+2458,Queets,Washington
+2459,Quilcene,Washington
+2460,Quinault,Washington
+2461,Quincy,Washington
+2462,Quinhagak,Alaska
+2463,Rachel,Nevada
+2464,Rackerby,California
+2465,Rail Road Flat,California
+2466,Rainbow,California
+2467,Rainier,Washington
+2468,Raisin City,California
+2469,Ralston,Washington
+2470,Ramona,California
+2471,Rampart,Alaska
+2472,Rancho Calaveras,California
+2473,Rancho Cordova,California
+2474,Rancho Cucamonga,California
+2475,Rancho Mirage,California
+2476,Rancho Palos Verdes,California
+2477,Rancho Rinconada,California
+2478,Rancho San Diego,California
+2479,Rancho Santa Fe,California
+2480,Rancho Santa Margarita,California
+2481,Rancho Tehama Reserve,California
+2482,Randle,Washington
+2483,Randsburg,California
+2484,Ravendale,California
+2485,Ravensdale,Washington
+2486,Raymond,Washington
+2487,Reardan,Washington
+2488,Red Bluff,California
+2489,Red Corral,California
+2490,Red Devil,Alaska
+2491,Red Dog Mine,Alaska
+2492,Red Mountain,California
+2493,Redcrest,California
+2494,Redding,California
+2495,Redlands,California
+2496,Redmond,Washington
+2497,Redondo,Washington
+2498,Redondo Beach,California
+2499,Redway,California
+2500,Redwood City,California
+2501,Redwood Terrace,California
+2502,Redwood Valley,California
+2503,Reedley,California
+2504,Reedsport,Oregon
+2505,Reno,Nevada
+2506,Renton,Washington
+2507,Republic,Washington
+2508,Requa,California
+2509,Revere,Washington
+2510,Rheem,California
+2511,Rhododendron,Oregon
+2512,Rialto,California
+2513,Rice,California
+2514,Richardson,Washington
+2515,Richfield,California
+2516,Richgrove,California
+2517,Richland,Washington
+2518,Richmond,California
+2519,Richmond Beach,Washington
+2520,Richmond Highlands,Washington
+2521,Richvale,California
+2522,Rickreall,Oregon
+2523,Riddle,Oregon
+2524,Ridgecrest,California
+2525,Ridgefield,Washington
+2526,Ridgemark,California
+2527,Rieth,Oregon
+2528,Riley,Oregon
+2529,Rimforest,California
+2530,Rio del Mar,California
+2531,Rio Dell,California
+2532,Rio Linda,California
+2533,Rio Oso,California
+2534,Rio Vista,California
+2535,Ripley,California
+2536,Ripon,California
+2537,Ritzville,Washington
+2538,River Pines,California
+2539,River Road,Oregon
+2540,Riverbank,California
+2541,Riverdale,California
+2542,Rivergrove,Oregon
+2543,Riverside,California
+2544,Riverton,Oregon
+2545,Riverview Farms,California
+2546,Roach,Nevada
+2547,Roads End,California
+2548,Robbins,California
+2549,Robe,Washington
+2550,Rochester,Washington
+2551,Rock Creek,Oregon
+2552,Rock Island,Washington
+2553,Rockaway Beach,Oregon
+2554,Rockford,Washington
+2555,Rocklin,California
+2556,Rockport,Washington
+2557,Rockwood,Oregon
+2558,Rodeo,California
+2559,Rogue River,Oregon
+2560,Rohnert Park,California
+2561,Rohnerville,California
+2562,Rolinda,California
+2563,Rolling Hills,California
+2564,Rolling Hills Estates,California
+2565,Rollingbay,Washington
+2566,Romoland,California
+2567,Ronald,Washington
+2568,Roosevelt,Washington
+2569,Rosalia,Washington
+2570,Rosamond,California
+2571,Rosario,Washington
+2572,Rosburg,Washington
+2573,Rose Lodge,Oregon
+2574,Roseburg,Oregon
+2575,Roseburg North,Oregon
+2576,Rosedale,California
+2577,Rosemead,California
+2578,Rosemont,California
+2579,Roseville,California
+2580,Roslyn,Washington
+2581,Ross,California
+2582,Rossmoor,California
+2583,Rough and Ready,California
+2584,Round Mountain,California
+2585,Round Valley,California
+2586,Rowena,Oregon
+2587,Rowland,Nevada
+2588,Rowland Heights,California
+2589,Rox,Nevada
+2590,Roy,Washington
+2591,Royal City,Washington
+2592,Rubidoux,California
+2593,Ruby,Washington
+2594,Ruby Valley,Nevada
+2595,Ruch,Oregon
+2596,Ruff,Washington
+2597,Rufus,Oregon
+2598,Running Springs,California
+2599,Russell City,California
+2600,Russian Mission,Alaska
+2601,Ruston,Washington
+2602,Ruth,California
+2603,Rutherford,California
+2604,Ryderwood,Washington
+2605,Sacramento,California
+2606,Sahalee,Washington
+2607,Saint George,Alaska
+2608,Saint Helena,California
+2609,Saint Helens,Oregon
+2610,Saint John,Washington
+2611,Saint Mary's,Alaska
+2612,Saint Michael,Alaska
+2613,Saint Paul,Oregon
+2614,Salem,Oregon
+2615,Salida,California
+2616,Salinas,California
+2617,Salkum,Washington
+2618,Salmon Creek,Washington
+2619,Salt Chuck,Alaska
+2620,Salt Wells,Nevada
+2621,Saltdale,California
+2622,Salton City,California
+2623,Salton Sea Beach,California
+2624,Salyer,California
+2625,Samish,Washington
+2626,Sammamish,Washington
+2627,Samoa,California
+2628,San Andreas,California
+2629,San Anselmo,California
+2630,San Antonio Heights,California
+2631,San Ardo,California
+2632,San Augustine,California
+2633,San Benito,California
+2634,San Bernardino,California
+2635,San Bruno,California
+2636,San Buenaventura,California
+2637,San Carlos,California
+2638,San Clemente,California
+2639,San de Fuca,Washington
+2640,San Diego,California
+2641,San Dimas,California
+2642,San Fernando,California
+2643,San Francisco,California
+2644,San Gabriel,California
+2645,San Geronimo,California
+2646,San Gregorio,California
+2647,San Jacinto,California
+2648,San Joaquin,California
+2649,San Jose,California
+2650,San Juan Bautista,California
+2651,San Juan Capistrano,California
+2652,San Juan Hot Springs,California
+2653,San Leandro,California
+2654,San Lorenzo,California
+2655,San Lucas,California
+2656,San Luis Obispo,California
+2657,San Luis Rey,California
+2658,San Marcos,California
+2659,San Marino,California
+2660,San Martin,California
+2661,San Mateo,California
+2662,San Miguel,California
+2663,San Pablo,California
+2664,San Quentin,California
+2665,San Rafael,California
+2666,San Ramon,California
+2667,San Simeon,California
+2668,Sanak,Alaska
+2669,Sand City,California
+2670,Sand Pass,Nevada
+2671,Sand Point,Alaska
+2672,Sandy,Oregon
+2673,Sandy Valley,Nevada
+2674,Sanger,California
+2675,Santa Ana,California
+2676,Santa Ana Heights,California
+2677,Santa Barbara,California
+2678,Santa Clara,California
+2679,Santa Clarita,California
+2680,Santa Cruz,California
+2681,Santa Fe Springs,California
+2682,Santa Margarita,California
+2683,Santa Maria,California
+2684,Santa Monica,California
+2685,Santa Nella,California
+2686,Santa Paula,California
+2687,Santa Rosa,California
+2688,Santa Rosa Valley,California
+2689,Santa Susana,California
+2690,Santa Venetia,California
+2691,Santa Ynez,California
+2692,Santee,California
+2693,Sappho,Washington
+2694,Saranap,California
+2695,Saratoga,California
+2696,Saticoy,California
+2697,Satsop,Washington
+2698,Sattley,California
+2699,Satus,Washington
+2700,Saugus,California
+2701,Sausalito,California
+2702,Savoonga,Alaska
+2703,Sawyer,Washington
+2704,Sawyers Bar,California
+2705,Saxman,Alaska
+2706,Scammon Bay,Alaska
+2707,Scandia,Washington
+2708,Scappoose,Oregon
+2709,Schrag,Washington
+2710,Schurz,Nevada
+2711,Scio,Oregon
+2712,Scotia,California
+2713,Scotland,California
+2714,Scotts Mills,Oregon
+2715,Scotts Valley,California
+2716,Scottsburg,Oregon
+2717,Sea Ranch,California
+2718,Seabeck,Washington
+2719,Seahurst,Washington
+2720,Seal Beach,California
+2721,Seal Rock,Oregon
+2722,Searchlight,Nevada
+2723,Searles,California
+2724,Seaside,California
+2725,SeaTac,Washington
+2726,Seattle,Washington
+2727,Seattle Heights,Washington
+2728,Sebastopol,California
+2729,Sedco Hills,California
+2730,Sedro-Woolley,Washington
+2731,Seeley,California
+2732,Sekiu,Washington
+2733,Selah,Washington
+2734,Selawik,Alaska
+2735,Selby,California
+2736,Seldovia,Alaska
+2737,Selleck,Washington
+2738,Selma,Oregon
+2739,Seneca,Oregon
+2740,Sequim,Washington
+2741,Sespe,California
+2742,Seville,California
+2743,Seward,Alaska
+2744,Shackelford,California
+2745,Shady Cove,Oregon
+2746,Shafter,California
+2747,Shageluk,Alaska
+2748,Shaker Church,Washington
+2749,Shaktoolik,Alaska
+2750,Shandon,California
+2751,Shaniko,Oregon
+2752,Shasta,California
+2753,Shasta Lake,California
+2754,Shaver Lake,California
+2755,Shaw Island,Washington
+2756,Shedd,Oregon
+2757,Shelter Cove,California
+2758,Shelton,Washington
+2759,Sheridan,Oregon
+2760,Sheridan Beach,Washington
+2761,Sherwood,Oregon
+2762,Shingle Springs,California
+2763,Shingletown,California
+2764,Shishmaref,Alaska
+2765,Shively,California
+2766,Shore Acres,California
+2767,Shoreline,Washington
+2768,Shoshone,California
+2769,Shungnak,Alaska
+2770,Sierra City,California
+2771,Sierra Madre,California
+2772,Sierra Village,California
+2773,Sierraville,California
+2774,Signal Hill,California
+2775,Siletz,Oregon
+2776,Siltcoos,Oregon
+2777,Silvana,Washington
+2778,Silver City,California
+2779,Silver Lake,Washington
+2780,Silver Lakes,California
+2781,Silver Peak,Nevada
+2782,Silver Springs,Nevada
+2783,Silverado,California
+2784,Silverado Resort,California
+2785,Silverdale,Washington
+2786,Silvertip,Alaska
+2787,Silverton,Oregon
+2788,Silvies,Oregon
+2789,Simi Valley,California
+2790,Similk Beach,Washington
+2791,Simnasho,Oregon
+2792,Sisquoc,California
+2793,Sisters,Oregon
+2794,Sitka,Alaska
+2795,Sixes,Oregon
+2796,Skagway,Alaska
+2797,Skamokawa,Washington
+2798,Skokomish,Washington
+2799,Skwentna,Alaska
+2800,Sky Londa,California
+2801,Sky Valley,California
+2802,Skyforest,California
+2803,Skykomish,Washington
+2804,Skyland,Nevada
+2805,Skyway,Washington
+2806,Slana,Alaska
+2807,Sleepy Hollow,California
+2808,Sleetmute,Alaska
+2809,Sloan,Nevada
+2810,Sloat,California
+2811,Smartsville,California
+2812,Smiley Park,California
+2813,Smith,Nevada
+2814,Smith Corner,California
+2815,Smith River,California
+2816,Smyrna,Washington
+2817,Snelling,California
+2818,Snohomish,Washington
+2819,Snoqualmie,Washington
+2820,Snoqualmie Falls,Washington
+2821,Soap Lake,Washington
+2822,Soda Bay,California
+2823,Soda Springs,California
+2824,Sodaville,Oregon
+2825,Solana Beach,California
+2826,Soldotna,Alaska
+2827,Soledad,California
+2828,Solromar,California
+2829,Solvang,California
+2830,Somes Bar,California
+2831,Somis,California
+2832,Sonoma,California
+2833,Sonora,California
+2834,Soquel,California
+2835,Soulsbyville,California
+2836,South Beach,Oregon
+2837,South Bend,Washington
+2838,South Broadway,Washington
+2839,South Cle Elum,Washington
+2840,South Creek,Washington
+2841,South Dos Palos,California
+2842,South El Monte,California
+2843,South Fontana,California
+2844,South Gate,California
+2845,South Laguna,California
+2846,South Lake,California
+2847,South Lake Tahoe,California
+2848,South Lebanon,Oregon
+2849,South Naknek,Alaska
+2850,South Oroville,California
+2851,South Pasadena,California
+2852,South Prairie,Washington
+2853,South San Francisco,California
+2854,South San Gabriel,California
+2855,South San Jose Hills,California
+2856,South Snohomish,Washington
+2857,South Taft,California
+2858,South Whittier,California
+2859,South Yuba City,California
+2860,Southworth,Washington
+2861,Spanaway,Washington
+2862,Spangle,Washington
+2863,Sparks,Nevada
+2864,Spenard,Alaska
+2865,Spokane,Washington
+2866,Spokane Valley,Washington
+2867,Sprague,Washington
+2868,Sprague River,Oregon
+2869,Spray,Oregon
+2870,Spreckels,California
+2871,Spring Creek,Nevada
+2872,Spring Garden,California
+2873,Spring Glen,Washington
+2874,Spring Valley,California
+2875,Spring Valley Lake,California
+2876,Springdale,Washington
+2877,Springfield,Oregon
+2878,Springville,California
+2879,Squaw Valley,California
+2880,Squirrel Mountain Valley,California
+2881,Stafford,Oregon
+2882,Stagecoach,Nevada
+2883,Stallion Springs,California
+2884,Standard,Alaska
+2885,Standish,California
+2886,Stanfield,Oregon
+2887,Stanton,California
+2888,Stanwood,Washington
+2889,Starbuck,Washington
+2890,Startup,Washington
+2891,Stateline,Nevada
+2892,Stayton,Oregon
+2893,Stebbins,Alaska
+2894,Stehekin,Washington
+2895,Steilacoom,Washington
+2896,Steptoe,Washington
+2897,Sterling,Alaska
+2898,Stevens Village,Alaska
+2899,Stevenson,Washington
+2900,Stevinson,California
+2901,Stillwater,Nevada
+2902,Stinson Beach,California
+2903,Stirling City,California
+2904,Stockton,California
+2905,Stony River,Alaska
+2906,Stonyford,California
+2907,Storrie,California
+2908,Strandell,Washington
+2909,Stratford,California
+2910,Strathmore,California
+2911,Strawberry,California
+2912,Sublimity,Oregon
+2913,Suisun City,California
+2914,Sulphur,Nevada
+2915,Sultan,Washington
+2916,Sultana,California
+2917,Sumas,Washington
+2918,Summer Lake,Oregon
+2919,Summerland,California
+2920,Summerlin South,Nevada
+2921,Summerville,Oregon
+2922,Summit,Alaska
+2923,Sumner,Washington
+2924,Sumpter,Oregon
+2925,Sun City,California
+2926,Sun Valley,Nevada
+2927,Sun Village,California
+2928,Suncrest,California
+2929,Sunnydale,Washington
+2930,Sunnymead,California
+2931,Sunnyside,Washington
+2932,Sunnyslope,Washington
+2933,Sunnyvale,California
+2934,Sunol,California
+2935,Sunrise Beach,Washington
+2936,Sunset Beach,California
+2937,Sunshine,Alaska
+2938,Suntrana,Alaska
+2939,Suquamish,Washington
+2940,Surfside,California
+2941,Susanville,California
+2942,Susitna,Alaska
+2943,Sutcliffe,Nevada
+2944,Sutherlin,Oregon
+2945,Sutter,California
+2946,Sutter Creek,California
+2947,Sutton,Alaska
+2948,Sweet Home,Oregon
+2949,Swinomish Village,Washington
+2950,Swisshome,Oregon
+2951,Synarep,Washington
+2952,Tacoma,Washington
+2953,Taft,California
+2954,Taft Heights,California
+2955,Tahlequah,Washington
+2956,Tahoe City,California
+2957,Tahoe Vista,California
+2958,Taholah,Washington
+2959,Tahoma,California
+2960,Tahuya,Washington
+2961,Tajiguas,California
+2962,Takilma,Oregon
+2963,Takotna,Alaska
+2964,Talent,Oregon
+2965,Talkeetna,Alaska
+2966,Talmage,California
+2967,Tamalpais Valley,California
+2968,Tampico,Washington
+2969,Tanacross,Alaska
+2970,Tanana,Alaska
+2971,Tangent,Oregon
+2972,Tarpey Village,California
+2973,Tatitlek,Alaska
+2974,Taylorsville,California
+2975,Tecate,California
+2976,Tecopa,California
+2977,Tee Harbor,Alaska
+2978,Tehachapi,California
+2979,Tehama,California
+2980,Tekoa,Washington
+2981,Telida,Alaska
+2982,Teller,Alaska
+2983,Telma,Washington
+2984,Telocaset,Oregon
+2985,Temecula,California
+2986,Temelec,California
+2987,Tempiute,Nevada
+2988,Temple City,California
+2989,Templeton,California
+2990,Tenakee Springs,Alaska
+2991,Tenino,Washington
+2992,Tenmile,Oregon
+2993,Tennant,California
+2994,Terminous,California
+2995,Termo,California
+2996,Terra Bella,California
+2997,Terra Linda,California
+2998,Terrace Heights,Washington
+2999,Terrebonne,Oregon
+3000,Tetlin,Alaska
+3001,Thane,Alaska
+3002,The Dalles,Oregon
+3003,Thermal,California
+3004,Thermalito,California
+3005,Thomas,Washington
+3006,Thompson Place,Washington
+3007,Thorne,Nevada
+3008,Thorne Bay,Alaska
+3009,Thornton,Washington
+3010,Thorp,Washington
+3011,Thousand Oaks,California
+3012,Thousand Palms,California
+3013,Three Lakes,Washington
+3014,Three Rivers,California
+3015,Three Rocks,California
+3016,Tiburon,California
+3017,Tidewater,Oregon
+3018,Tierra Buena,California
+3019,Tieton,Washington
+3020,Tigard,Oregon
+3021,Tiger,Washington
+3022,Tillamook,Oregon
+3023,Tiller,Oregon
+3024,Tillicum,Washington
+3025,Timber,Oregon
+3026,Tin City,Alaska
+3027,Tionesta,California
+3028,Tippett,Nevada
+3029,Tipton,California
+3030,Tobin,California
+3031,Todd,Alaska
+3032,Tofty,Alaska
+3033,Togiak,Alaska
+3034,Tok,Alaska
+3035,Tokeen,Alaska
+3036,Tokeland,Washington
+3037,Toksook Bay,Alaska
+3038,Toledo,Washington
+3039,Tollhouse,California
+3040,Tomales,California
+3041,Toms Place,California
+3042,Tonasket,Washington
+3043,Tonopah,Nevada
+3044,Tonsina,Alaska
+3045,Tonyville,California
+3046,Tooleville,California
+3047,Top of the World,California
+3048,Topanga,California
+3049,Topaz,California
+3050,Topaz Lake,Nevada
+3051,Topaz Ranch Estates,Nevada
+3052,Toppenish,Washington
+3053,Torboy,Washington
+3054,Torrance,California
+3055,Touchet,Washington
+3056,Toulon,Nevada
+3057,Toy,Nevada
+3058,Trabuco Canyon,California
+3059,Trabuco Highlands,California
+3060,Tracy,California
+3061,Tracyton,Washington
+3062,Trail,Oregon
+3063,Tranquillity,California
+3064,Trapper Creek,Alaska
+3065,Traver,California
+3066,Trego,Nevada
+3067,Trentwood,Washington
+3068,Tres Pinos,California
+3069,Tri-City,Oregon
+3070,Trimmer,California
+3071,Trinidad,California
+3072,Trinity Center,California
+3073,Trinity Village,California
+3074,Trona,California
+3075,Trout Lake,Washington
+3076,Troutdale,Oregon
+3077,Trowbridge,California
+3078,Troy,Oregon
+3079,Truckee,California
+3080,Tualatin,Oregon
+3081,Tukwila,Washington
+3082,Tulalip,Washington
+3083,Tulare,California
+3084,Tulelake,California
+3085,Tuluksak,Alaska
+3086,Tumalo,Oregon
+3087,Tumwater,Washington
+3088,Tuntutuliak,Alaska
+3089,Tununak,Alaska
+3090,Tuolumne,California
+3091,Tuolumne City,California
+3092,Tupman,California
+3093,Turlock,California
+3094,Turner,Washington
+3095,Turner Corner,Washington
+3096,Tuscarora,Nevada
+3097,Tustin,California
+3098,Tuttle,California
+3099,Tuttletown,California
+3100,Twain,California
+3101,Twain Harte,California
+3102,Twentynine Palms,California
+3103,Twin Lakes,Washington
+3104,Twin Peaks,California
+3105,Twisp,Washington
+3106,Tygh Valley,Oregon
+3107,Tyler,Washington
+3108,Tyonek,Alaska
+3109,Ualapu'e,Hawaii
+3110,Ugashik,Alaska
+3111,Ukiah,Oregon
+3112,'Ulupalakua,Hawaii
+3113,Umapine,Oregon
+3114,Umatilla,Oregon
+3115,Umiat,Alaska
+3116,Umkumiute,Alaska
+3117,Umpqua,Oregon
+3118,Unalakleet,Alaska
+3119,Unalaska,Alaska
+3120,Unga,Alaska
+3121,Union,Washington
+3122,Union City,California
+3123,Union Creek,Oregon
+3124,Union Gap,Washington
+3125,Uniontown,Washington
+3126,Unionville,Nevada
+3127,Unity,Oregon
+3128,University Place,Washington
+3129,Upland,California
+3130,Upper Kalskag,Alaska
+3131,Upper Lake,California
+3132,Upper Mill,Washington
+3133,Upper Preston,Washington
+3134,Urban,Washington
+3135,Ursine,Nevada
+3136,Usk,Washington
+3137,Uyak,Alaska
+3138,Vacaville,California
+3139,Vader,Washington
+3140,Vail,Washington
+3141,Val Verde,California
+3142,Valdez,Alaska
+3143,Vale,Oregon
+3144,Valinda,California
+3145,Valle Vista,California
+3146,Vallecito,California
+3147,Vallejo,California
+3148,Valley,Washington
+3149,Valley Acres,California
+3150,Valley Center,California
+3151,Valley Falls,Oregon
+3152,Valley Ford,California
+3153,Valley Home,California
+3154,Valley Springs,California
+3155,Valley View Park,California
+3156,Valley Wells,California
+3157,Valmy,Nevada
+3158,Valsetz,Oregon
+3159,Van Zandt,Washington
+3160,Vancouver,Washington
+3161,Vandenberg Village,California
+3162,Vantage,Washington
+3163,Vashon,Washington
+3164,Vashon Heights,Washington
+3165,Vaughn,Washington
+3166,Venersborg,Washington
+3167,Veneta,Oregon
+3168,Venetie,Alaska
+3169,Venice,Washington
+3170,Ventura,California
+3171,Veradale,Washington
+3172,Verdemont,California
+3173,Verdi,Nevada
+3174,Verlot,Washington
+3175,Vernon,California
+3176,Vernonia,Oregon
+3177,Victor,California
+3178,Victorville,California
+3179,Vida,Oregon
+3180,Vidal,California
+3181,Vidal Junction,California
+3182,View Park,California
+3183,Villa Park,California
+3184,Vina,California
+3185,Vincent,California
+3186,Vine Hill,California
+3187,Vineyard,California
+3188,Vinton,California
+3189,Viola,California
+3190,Virginia,Washington
+3191,Virginia City,Nevada
+3192,Visalia,California
+3193,Vista,California
+3194,Volcano,California
+3195,Volta,California
+3196,Vya,Nevada
+3197,Wabash,Washington
+3198,Wabuska,Nevada
+3199,Wadsworth,Nevada
+3200,Wagontire,Oregon
+3201,Wahiawa,Hawaii
+3202,Waiakoa,Hawaii
+3203,Waialua,Hawaii
+3204,Wai'anae,Hawaii
+3205,Waiehu,Hawaii
+3206,Waihe‘e,Hawaii
+3207,Waikapu,Hawaii
+3208,Waikele,Hawaii
+3209,Wailea,Hawaii
+3210,Wailua,Hawaii
+3211,Wailuku,Hawaii
+3212,Waimanalo,Hawaii
+3213,Waimea,Hawaii
+3214,Wainwright,Alaska
+3215,Waipahu,Hawaii
+3216,Waitsburg,Washington
+3217,Waldport,Oregon
+3218,Waldron,Washington
+3219,Wales,Alaska
+3220,Walker,California
+3221,Walker Lake,Nevada
+3222,Walla Walla,Washington
+3223,Wallace,California
+3224,Wallowa,Oregon
+3225,Wallula,Washington
+3226,Walnut,California
+3227,Walnut Creek,California
+3228,Walnut Grove,Washington
+3229,Walnut Heights,California
+3230,Walnut Park,California
+3231,Walterville,Oregon
+3232,Wamic,Oregon
+3233,Wapato,Washington
+3234,Wapinitia,Oregon
+3235,Ward Cove,Alaska
+3236,Warden,Washington
+3237,Warm Beach,Washington
+3238,Warm Springs,Oregon
+3239,Warner Springs,California
+3240,Warren,Oregon
+3241,Warrenton,Oregon
+3242,Wasco,California
+3243,Washington,California
+3244,Washoe City,Nevada
+3245,Washougal,Washington
+3246,Washtucna,Washington
+3247,Wasilla,Alaska
+3248,Waterfall,Alaska
+3249,Waterford,California
+3250,Waterloo,California
+3251,Waterville,Washington
+3252,Watsonville,California
+3253,Waukena,California
+3254,Waukon,Washington
+3255,Wauna,Washington
+3256,Wautauga Beach,Washington
+3257,Waverly,Washington
+3258,Wawawai,Washington
+3259,Wawona,California
+3260,Weaverville,California
+3261,Weed,California
+3262,Weed Heights,Nevada
+3263,Weedpatch,California
+3264,Weimar,California
+3265,Weldon,California
+3266,Wellington,Nevada
+3267,Wellpinit,Washington
+3268,Wells,Nevada
+3269,Weloka,Hawaii
+3270,Wenatchee,Washington
+3271,Wendel,California
+3272,Weott,California
+3273,West Covina,California
+3274,West Goshen,California
+3275,West Hollywood,California
+3276,West Lake Sammamish,Washington
+3277,West Linn,Oregon
+3278,West Park,California
+3279,West Point,California
+3280,West Richland,Washington
+3281,West Sacramento,California
+3282,West Slope,Oregon
+3283,West Valley,Washington
+3284,West Wendover,Nevada
+3285,West Whittier,California
+3286,West Whittier-Los Nietos,California
+3287,Westend,California
+3288,Westfall,Oregon
+3289,Westfir,Oregon
+3290,Westhaven,California
+3291,Westlake Village,California
+3292,Westley,California
+3293,Westminster,California
+3294,Westmorland,California
+3295,Weston,Oregon
+3296,Westport,California
+3297,Westwood,California
+3298,Wheatland,California
+3299,Wheeler,Oregon
+3300,Wheeler Ridge,California
+3301,Wheeler Springs,California
+3302,White City,Oregon
+3303,White Mountain,Alaska
+3304,White Pines,California
+3305,White Salmon,Washington
+3306,White Swan,Washington
+3307,Whiteson,Oregon
+3308,Whitethorn,California
+3309,Whitewater,California
+3310,Whitley Gardens,California
+3311,Whittier,Alaska
+3312,Wickersham,Washington
+3313,Wilbur,Washington
+3314,Wilderville,Oregon
+3315,Wildomar,California
+3316,Wilkeson,Washington
+3317,Willamina,Oregon
+3318,Willapa,Washington
+3319,Williams,Oregon
+3320,Willits,California
+3321,Willow,Alaska
+3322,Willow Creek,California
+3323,Willow Ranch,California
+3324,Willowbrook,California
+3325,Willowdale,Oregon
+3326,Willows,California
+3327,Wilseyville,California
+3328,Wilson Creek,Washington
+3329,Wilsonia,California
+3330,Wilsonville,Oregon
+3331,Wilton,California
+3332,Wimer,Oregon
+3333,Winchester,Oregon
+3334,Winchester Bay,Oregon
+3335,Windsor,California
+3336,Windsor Hills,California
+3337,Winlock,Washington
+3338,Winnemucca,Nevada
+3339,Winona,Washington
+3340,Winston,Oregon
+3341,Winter Gardens,California
+3342,Winterhaven,California
+3343,Winters,California
+3344,Winthrop,Washington
+3345,Winton,Washington
+3346,Wiseman,Alaska
+3347,Wishram,Washington
+3348,Withrow,Washington
+3349,Wofford Heights,California
+3350,Wolf Creek,Oregon
+3351,Wollochet,Washington
+3352,Wood Village,Oregon
+3353,Woodacre,California
+3354,Woodbridge,California
+3355,Woodburn,Oregon
+3356,Woodchopper,Alaska
+3357,Woodcrest,California
+3358,Woodfords,California
+3359,Woodinville,Washington
+3360,Woodlake,California
+3361,Woodland,Washington
+3362,Woodmont Beach,Washington
+3363,Woodside,California
+3364,Woodville,California
+3365,Woodway,Washington
+3366,Woolsey,Nevada
+3367,Worden,Oregon
+3368,Worth,California
+3369,Wrangell,Alaska
+3370,Wrightwood,California
+3371,Wymer,Washington
+3372,Yachats,Oregon
+3373,Yacolt,Washington
+3374,Yakima,Washington
+3375,Yakutat,Alaska
+3376,Yamhill,Oregon
+3377,Yankee Hill,California
+3378,Yarrow Point,Washington
+3379,Yelm,Washington
+3380,Yerington,Nevada
+3381,Yermo,California
+3382,Yettem,California
+3383,Yolo,California
+3384,Yoman,Washington
+3385,Yoncalla,Oregon
+3386,Yorba Linda,California
+3387,Yosemite Lakes,California
+3388,Yosemite Village,California
+3389,Yountville,California
+3390,Yreka,California
+3391,Yuba City,California
+3392,Yucaipa,California
+3393,Yucca Valley,California
+3394,Zayante,California
+3395,Zenith,Washington
+3396,Zephyr Cove,Nevada
+3397,Zillah,Washington
